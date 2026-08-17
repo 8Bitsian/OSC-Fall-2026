@@ -53,7 +53,7 @@
 [t_issue]: https://custom-icon-badges.demolab.com/github/issues/8Bitsian/JAVA-Fall-2026?style=flat&logo=issue-opened&logoColor=FFFFF0&label=Total%20Issues&labelColor=8C52FF&color=FFDE59
 
 <!-- Lessons -->
-[L1]: https://custom-icon-badges.demolab.com/badge/Review_of_Java_I-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%201&labelColor=8C52FF&color=FFDE59
+[L1]: https://custom-icon-badges.demolab.com/badge/Communication_&_Documentation_Standards-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%201&labelColor=8C52FF&color=FFDE59
 [L2]: https://custom-icon-badges.demolab.com/badge/Inheritance_%26_Polymorphism-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%202&labelColor=8C52FF&color=FFDE59
 [L3]: https://custom-icon-badges.demolab.com/badge/Abstract_Classes_%26_Interfaces-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%203&labelColor=8C52FF&color=FFDE59
 [L4]: https://custom-icon-badges.demolab.com/badge/Exception_Handling_%26_Text_I%2FO-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%204&labelColor=8C52FF&color=FFDE59
