@@ -1,6 +1,3 @@
-# OSC-Fall-2026
-A repsoitiory to keep all of my Operating Systems Concepts coursework and notes.
-
 <!-- Get more cards from https://github.com/DenverCoder1/ -->
 <!-- Get badges from https://shields.io/ | Start link with: https://img.shields.io/badge/ -->
 <!-- Get logos from https://simpleicons.org/ -->
