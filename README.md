@@ -33,7 +33,7 @@
 | [![Lesson 4 Badge][L4]](./lesson04/) | [![Lesson 10 Badge][L10]](./lesson10/) |
 | [![Lesson 5 Badge][L5]](./lesson05/) | [![Lesson 11 Badge][L11]](./lesson11/) |
 | [![Lesson 6 Badge][L6]](./lesson06/) | [![Lesson 12 Badge][L12]](./lesson12/) |
-| [![Final Badge][FIN]](./final/) | |
+|  | [![Final Badge][FIN]](./final/) |
 
 <!-- Links placed here for the file's readability -->
 <!-- Social Media -->
