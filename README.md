@@ -32,7 +32,8 @@
 | [![Lesson 3 Badge][L3]](./lesson03/) | [![Lesson 9 Badge][L9]](./lesson09/) |
 | [![Lesson 4 Badge][L4]](./lesson04/) | [![Lesson 10 Badge][L10]](./lesson10/) |
 | [![Lesson 5 Badge][L5]](./lesson05/) | [![Lesson 11 Badge][L11]](./lesson11/) |
-| [![Lesson 6 Badge][L6]](./lesson06/) | [![Final Badge][FIN]](./final/) |
+| [![Lesson 6 Badge][L6]](./lesson06/) | [![Lesson 12 Badge][L12]](./lesson12/) |
+| [![Final Badge][FIN]](./final/) | |
 
 <!-- Links placed here for the file's readability -->
 <!-- Social Media -->
@@ -63,6 +64,7 @@
 [L9]: https://custom-icon-badges.demolab.com/badge/Recursion-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%209&labelColor=8C52FF&color=FFDE59
 [L10]: https://custom-icon-badges.demolab.com/badge/Generics-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2010&labelColor=8C52FF&color=FFDE59
 [L11]: https://custom-icon-badges.demolab.com/badge/Lists%2C_Stacks%2C_Queues%2C_%26_Priority_Queues-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2011&labelColor=8C52FF&color=FFDE59
+[L12]: https://custom-icon-badges.demolab.com/badge/Lists%2C_Stacks%2C_Queues%2C_%26_Priority_Queues-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2012&labelColor=8C52FF&color=FFDE59
 
 <!-- Projects -->
 [FIN]: https://custom-icon-badges.demolab.com/badge/Final_Project-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
