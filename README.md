@@ -59,7 +59,7 @@
 [L4]: https://custom-icon-badges.demolab.com/badge/Supporting_Windows-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%204&labelColor=8C52FF&color=FFDE59
 [L5]: https://custom-icon-badges.demolab.com/badge/Securing_Windows-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%205&labelColor=8C52FF&color=FFDE59
 [L6]: https://custom-icon-badges.demolab.com/badge/Installing_Operating_Systems-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%206&labelColor=8C52FF&color=FFDE59
-[L7]: https://custom-icon-badges.demolab.com/badge/Supporting_Other_OS-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%207&labelColor=8C52FF&color=FFDE59
+[L7]: https://custom-icon-badges.demolab.com/badge/Supporting_Other_Operating_Systems-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%207&labelColor=8C52FF&color=FFDE59
 [L8]: https://custom-icon-badges.demolab.com/badge/Configuring_SOHO_Network_Security-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%208&labelColor=8C52FF&color=FFDE59
 [L9]: https://custom-icon-badges.demolab.com/badge/Managing_Security_Settings-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%209&labelColor=8C52FF&color=FFDE59
 [L10]: https://custom-icon-badges.demolab.com/badge/Supporting_Mobile_Software-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2010&labelColor=8C52FF&color=FFDE59
