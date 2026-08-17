@@ -53,18 +53,18 @@
 [t_issue]: https://custom-icon-badges.demolab.com/github/issues/8Bitsian/JAVA-Fall-2026?style=flat&logo=issue-opened&logoColor=FFFFF0&label=Total%20Issues&labelColor=8C52FF&color=FFDE59
 
 <!-- Lessons -->
-[L1]: https://custom-icon-badges.demolab.com/badge/Communication_&_Documentation_Standards-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%201&labelColor=8C52FF&color=FFDE59
-[L2]: https://custom-icon-badges.demolab.com/badge/Inheritance_%26_Polymorphism-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%202&labelColor=8C52FF&color=FFDE59
-[L3]: https://custom-icon-badges.demolab.com/badge/Abstract_Classes_%26_Interfaces-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%203&labelColor=8C52FF&color=FFDE59
-[L4]: https://custom-icon-badges.demolab.com/badge/Exception_Handling_%26_Text_I%2FO-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%204&labelColor=8C52FF&color=FFDE59
-[L5]: https://custom-icon-badges.demolab.com/badge/JavaFX_Basics-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%205&labelColor=8C52FF&color=FFDE59
-[L6]: https://custom-icon-badges.demolab.com/badge/Event--Driven_Programming_%26_Animations-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%206&labelColor=8C52FF&color=FFDE59
-[L7]: https://custom-icon-badges.demolab.com/badge/JavaX_UI_Controls_%26_Multimedia-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%207&labelColor=8C52FF&color=FFDE59
-[L8]: https://custom-icon-badges.demolab.com/badge/Advanced_JavaFX_%26_Text_FXML-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%208&labelColor=8C52FF&color=FFDE59
-[L9]: https://custom-icon-badges.demolab.com/badge/Recursion-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%209&labelColor=8C52FF&color=FFDE59
-[L10]: https://custom-icon-badges.demolab.com/badge/Generics-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2010&labelColor=8C52FF&color=FFDE59
-[L11]: https://custom-icon-badges.demolab.com/badge/Lists%2C_Stacks%2C_Queues%2C_%26_Priority_Queues-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2011&labelColor=8C52FF&color=FFDE59
-[L12]: https://custom-icon-badges.demolab.com/badge/Lists%2C_Stacks%2C_Queues%2C_%26_Priority_Queues-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2012&labelColor=8C52FF&color=FFDE59
+[L1]: https://custom-icon-badges.demolab.com/badge/Communication_%26_Documentation_Standards-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%201&labelColor=8C52FF&color=FFDE59
+[L2]: https://custom-icon-badges.demolab.com/badge/Configuring_Windows-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%202&labelColor=8C52FF&color=FFDE59
+[L3]: https://custom-icon-badges.demolab.com/badge/Managing_Windows-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%203&labelColor=8C52FF&color=FFDE59
+[L4]: https://custom-icon-badges.demolab.com/badge/Supporting_Windows-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%204&labelColor=8C52FF&color=FFDE59
+[L5]: https://custom-icon-badges.demolab.com/badge/Securing_Windows-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%205&labelColor=8C52FF&color=FFDE59
+[L6]: https://custom-icon-badges.demolab.com/badge/Installing_Operating_Systems-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%206&labelColor=8C52FF&color=FFDE59
+[L7]: https://custom-icon-badges.demolab.com/badge/Supporting_Other_OS-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%207&labelColor=8C52FF&color=FFDE59
+[L8]: https://custom-icon-badges.demolab.com/badge/Configuring_SOHO_Network_Security-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%208&labelColor=8C52FF&color=FFDE59
+[L9]: https://custom-icon-badges.demolab.com/badge/Managing_Security_Settings-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%209&labelColor=8C52FF&color=FFDE59
+[L10]: https://custom-icon-badges.demolab.com/badge/Supporting_Mobile_Software-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2010&labelColor=8C52FF&color=FFDE59
+[L11]: https://custom-icon-badges.demolab.com/badge/Using_Data_Security-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2011&labelColor=8C52FF&color=FFDE59
+[L12]: https://custom-icon-badges.demolab.com/badge/Implementing_Operational_Procedures-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2012&labelColor=8C52FF&color=FFDE59
 
 <!-- Projects -->
 [FIN]: https://custom-icon-badges.demolab.com/badge/Final_Project-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
