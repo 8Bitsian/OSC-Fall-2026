@@ -8,10 +8,10 @@ A repsoitiory to keep all of my Operating Systems Concepts coursework and notes.
 
 [![Banner](images/Banner.png)](https://8bitsian.github.io/)
 
-## ☕ Java-Fall-2026
->ℹ️ Coursework and assignments for my Java 2 class, including weekly exercises and project submissions.<br/>
-*️⃣ The course requires that I utilize JetBrains [IntelliJ Idea](https://www.jetbrains.com/idea/) as my IDE.<br/>
-📗 I am referencing Introduction to Java Programming and Data Structures, Comprehensive Version 12E by Y. Daniel Liang and the [companion website](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/).<br/></br>
+## ⏹️ OSC-Fall-2026
+>ℹ️ Coursework and assignments for my Operating Systems Concepts (OCS) course, including weekly exercises and project submissions.<br/>
+*️⃣ The course requires that I utilize [CompTIA](https://www.comptia.org/en-us/) for the CertMaster Learn tool.<br/>
+*️⃣ This course prepares me for the [CompTIA A+ Core 1 & 2](https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/) Certification.<br/><br/>
 > [![my-website][WEB]](https://8bitsian.github.io/)
 [![stack-overflow][STACK]](https://stackoverflow.com/users/32219858/8bitsian)
 [![bluesky][BLUESKY]](https://bsky.app/profile/8bitsoftware.bsky.social)
@@ -25,23 +25,6 @@ A repsoitiory to keep all of my Operating Systems Concepts coursework and notes.
 ![last commit][l_commit]
 ![Total Issues][t_issue]
 
-## 🛠️ Tech & Tools
-<!-- The World Wide Web Consortium (W3C) develops the HTML5 and CSS standards from https://www.w3.org/ -->
-> ⚙️ I am a Linux Mint user with experience in Windows 11 and 10 operating systems. My workflow consists of designing with Figma and Draw.io, developing with Geany, VSCodium, or the JetBrains suite, and documenting with Obsidian and GitHub. I use Java as my main language for any development within this repository.</br></br>
-> [![Linux Mint Badge][linux]](https://www.linuxmint.com/)
-![Windows 11 Badge][windows]
-[![Figma Badge][figma]](https://www.figma.com/)
-[![Draw.io Badge][drawio]](https://app.diagrams.net/)
-[![Obsidian Badge][obsidian]](https://obsidian.md/)</br>
-[![JetBrains Badge][jetbrains]](https://www.jetbrains.com/)
-[![IntelliJ Badge][intellij]](https://www.jetbrains.com/idea/)
-[![VSCodium Badge][vscodium]](https://vscodium.com/)
-[![Geany Badge][geany]](https://www.geany.org/)
-![GitHub Badge][m-github]<br/>
-![Total Languages Badge][t_lang]
-![Top Langauge Badge][up_lang]
-[![Java Badge][java]](https://www.java.com/)
-
 ## 🗃️ Lessons
 > 📂 Below are a list of lesson folders and what they include.</br>
 
@@ -53,12 +36,6 @@ A repsoitiory to keep all of my Operating Systems Concepts coursework and notes.
 | [![Lesson 4 Badge][L4]](./lesson04/) | [![Lesson 10 Badge][L10]](./lesson10/) |
 | [![Lesson 5 Badge][L5]](./lesson05/) | [![Lesson 11 Badge][L11]](./lesson11/) |
 | [![Lesson 6 Badge][L6]](./lesson06/) | [![Final Badge][FIN]](./final/) |
-| [![Midterm Badge][MID]](./midterm/) | |
-
-## 💽 Repositories
-<!-- Repository Cards from https://github.com/stats-organization/github-stats-extended -->
-[![JAVAI Repo][JAVAI]](https://github.com/8Bitsian/Java-Spring-2026)
-[![SYST Repo][SYST]](https://github.com/8Bitsian/SYST-Spring-2026)
 
 <!-- Links placed here for the file's readability -->
 <!-- Social Media -->
@@ -91,28 +68,4 @@ A repsoitiory to keep all of my Operating Systems Concepts coursework and notes.
 [L11]: https://custom-icon-badges.demolab.com/badge/Lists%2C_Stacks%2C_Queues%2C_%26_Priority_Queues-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%2011&labelColor=8C52FF&color=FFDE59
 
 <!-- Projects -->
-[MID]: https://custom-icon-badges.demolab.com/badge/Midterm_Project-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [FIN]: https://custom-icon-badges.demolab.com/badge/Final_Project-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-
-<!-- Operating Systems -->
-[linux]: https://img.shields.io/badge/Linux_Mint-2026?logo=linuxmint&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[windows]: https://custom-icon-badges.demolab.com/badge/Windows-2026?style=flat&logo=windows11&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-
-<!-- Software -->
-[figma]: https://img.shields.io/badge/Figma-2026?logo=figma&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[drawio]: https://img.shields.io/badge/Draw.io-2026?logo=diagramsdotnet&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[obsidian]: https://img.shields.io/badge/Obsidian-2026?logo=obsidian&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[geany]: https://custom-icon-badges.demolab.com/badge/Geany-2026?style=flat&logo=geany2&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[vscodium]: https://img.shields.io/badge/VSCodium-2026?logo=vscodium&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[m-github]: https://img.shields.io/badge/GitHub-2026?logo=github&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[jetbrains]: https://img.shields.io/badge/JetBrains-2026?logo=jetbrains&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-[intellij]: https://img.shields.io/badge/IntelliJ-2025?logo=intellijidea&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-
-<!-- Programming Languages -->
-[t_lang]: https://custom-icon-badges.demolab.com/github/languages/count/8Bitsian/JAVA-Fall-2026?style=flat&logo=code-square&logoColor=FFFFF0&label=Total%20Languages&labelColor=8C52FF&color=FFDE59
-[up_lang]: https://custom-icon-badges.demolab.com/github/languages/top/8Bitsian/JAVA-Fall-2026?style=flat&logo=code-square&logoColor=FFFFF0&label=Top%20Language%20-%20Java&labelColor=8C52FF&color=FFDE59
-[java]: https://img.shields.io/badge/Java-25?logo=openjdk&logoColor=%23f6f4f0&labelColor=%238c52ff&color=%23ffde59
-
-<!-- Repositories -->
-[JAVAI]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/Java-Spring-2026&description_lines_count=2&theme=buefy
-[SYST]: https://github-stats-extended.vercel.app/api/pin?username=8Bitsian&repo=8Bitsian/SYST-Spring-2026&description_lines_count=2&theme=buefy
