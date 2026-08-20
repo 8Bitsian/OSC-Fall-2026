@@ -15,6 +15,25 @@ When nearing the end of your shifts you have to think about handing the issue ov
 Employees must understand how to use computers and networked services securely and safely and be aware of their responsibilities. To support this, the organization needs to create written policies and procedures to help staff understand and fulfill their tasks and follow best practices:
 - A policy is an overall statement of intent
 - A **Standard Operating Procedure (SOP)** is a step-by-step list of the actions that must be completed for any given task to comply with policy. Most IT procedures should be governed by SOPs
+
+## Service Level Agreements
+
+## Incident and Ticketing Systems
+
+## Categories and Severity
+
+## Ticket Management
+
+## Support Documentation and Knowledge Base Articles
+
+## Lessons Learned
+
+## Clear Written Communication
+
+## Knowledge Base
+
+## Policy Documentation
+
 # Professional Communication
 
 # Types of Operating Systems
