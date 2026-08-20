@@ -33,7 +33,7 @@
 | [![Lesson 4 Badge][L4]](./lesson04/) | [![Lesson 10 Badge][L10]](./lesson10/) |
 | [![Lesson 5 Badge][L5]](./lesson05/) | [![Lesson 11 Badge][L11]](./lesson11/) |
 | [![Lesson 6 Badge][L6]](./lesson06/) | [![Lesson 12 Badge][L12]](./lesson12/) |
-|  | [![Final Badge][FIN]](./final/) |
+| [![Review Badge][PAST]](./review/)   | [![Final Badge][FIN]](./final/) |
 
 <!-- Links placed here for the file's readability -->
 <!-- Social Media -->
@@ -68,3 +68,4 @@
 
 <!-- Projects -->
 [FIN]: https://custom-icon-badges.demolab.com/badge/Final_Project-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[PAST]: https://custom-icon-badges.demolab.com/badge/Review_Content-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
