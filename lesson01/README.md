@@ -5,7 +5,8 @@
 .<br/>
 
 📂 Files will be listed below:
-- `11_0.md` | Introduction
-- `11_01_13.md` | Create a Ticket
-- `11_01_14.md` | Close a Ticket
-- `11_01_15.md` | Use Help Desk System
+- `11.md` | Notes
+- `lesson01.pptx` | Slides
+- `11_01_13.md` | 🔬 Lab: Create a Ticket
+- `11_01_14.md` | 🔬 Lab: Close a Ticket
+- `11_01_15.md` | 🔬 Lab: Use Help Desk System
