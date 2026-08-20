@@ -68,4 +68,4 @@
 
 <!-- Projects -->
 [FIN]: https://custom-icon-badges.demolab.com/badge/Final_Project-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[PAST]: https://custom-icon-badges.demolab.com/badge/Review_Content-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[PAST]: https://custom-icon-badges.demolab.com/badge/Hardware_Installation_%26_Maintenance-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
