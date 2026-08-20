@@ -1,0 +1,17 @@
+# Managing Support Procedures
+Support for customers and clients provides an interesting dynamic to working as an **Information Technology (IT) specialist**. Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary. Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.
+
+As you work through the process, you will also need to ensure you are documenting the steps you have taken and the results of any test you have run. In some cases, the problem will not be resolved in the same day and other team members may need to continue to find a solution after your shift ends/ Tracking and documentation of steps taken thus far allows them to continue the process rather than starting all over again with the issue. Understanding which application you are working with and ensuring the correct operating system has been identified will be helpful in finding a resolution as well.
+
+## Prepare for A+ Core 2 by:
+- Understanding industry best practices in support documentation
+- Understanding and use processional communication
+- Identifying various operating systems and their uses
+
+# Documentation
+
+# Professional Communication
+
+# Types of Operating Systems
+
+# Additional Resources
