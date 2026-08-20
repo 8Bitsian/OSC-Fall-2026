@@ -15,6 +15,12 @@ When nearing the end of your shifts you have to think about handing the issue ov
 Employees must understand how to use computers and networked services securely and safely and be aware of their responsibilities. To support this, the organization needs to create written policies and procedures to help staff understand and fulfill their tasks and follow best practices:
 - A policy is an overall statement of intent
 - A **Standard Operating Procedure (SOP)** is a step-by-step list of the actions that must be completed for any given task to comply with policy. Most IT procedures should be governed by SOPs
+- **Guidelines** are for areas of policy where there are no procedures, either because the situation has not been fully assessed or because the decision-making process is too complex and subject to variables to be able to capture it in an SOP. Guidelines may also describe circumstances where it is appropriate to deviate from a specified procedure
+
+Typical examples of SOPs are as follows:
+- Procedures for custom installation of software packages, such as verifying system requirements, validating download/installation source, confirming license validity, adding the software to change control/monitoring processes, and developing support/training documentation
+- New-user setup checklist as part of the on-boarding process for new employees and employees changing job roles. Typical tasks include identification/enrollment with secure credentials, allocation of devices, and allocation of permissions/assignment to security groups
+- End-user termination checklist as part of the off-boarding process for employees who are retiring, changing job roles, or have been fired. Typical tasks include returning and sanitizing devices, releasing software licenses, and disabling account permissions/access
 
 ## Service Level Agreements
 
