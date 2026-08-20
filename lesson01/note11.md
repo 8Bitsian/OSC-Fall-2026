@@ -23,6 +23,34 @@ Typical examples of SOPs are as follows:
 - End-user termination checklist as part of the off-boarding process for employees who are retiring, changing job roles, or have been fired. Typical tasks include returning and sanitizing devices, releasing software licenses, and disabling account permissions/access
 
 ## Service Level Agreements
+**Service Level Agreements (SLAs)** define the level of service requirements from an internal department or external, third-party vendor. Examples of services that most likely have an SLA in place include:
+- Internal departments of the company that are providing resources to one another such as access to hardware resources; a company's maintenance department may also have a SLA that details how they are to provide support to the other departments within the company when it comes to building maintenance, etc.
+- External agreements will normally be provided by the ISP as to the metrics of throughput they will provide a company for the internet connection; a cloud service provider will also have a SLA in place that details the service delivery metrics of the organizations cloud resources. 
+
+SLAs normally include a description of the service being provided, along with the metrics that are used to measure the level of service being provided. In some cases, the SLA may dictate the expected up time, when the service is available, and what is not considered down time (service not available) for the service. The Rule of Nines is a very popular metric used for this purpose.
+
+| # of Nines | Uptime | Downtime per Year | Downtime per Month | Downtime per Day |
+|:---:|:---|:---:|:---:|:---:|
+|  1 Nine  | 90%            |  36.53 days         |  73.05 hours        |   2.4 hours         |
+|  2 Nines | 99%            |   3.65 days         |   7.31 hours        |  14.4 minutes       |
+|  3 Nines | 99.9%          |   8.77 hours        |  43.84 minutes      |   1.44 minutes      |
+|  4 Nines | 99.99%         |  52.60 minutes      |   4.38 minutes      |   8.64 seconds      |
+|  5 Nines | 99.999%        |   5.26 minutes      |  26.30 seconds      | 864.00 milliseconds |
+|  6 Nines | 99.9999%       |  31.56 seconds      |   2.63 seconds      |  86.40 milliseconds |
+|  7 Nines | 99.99999%      |   3.16 seconds      | 262.98 milliseconds |   8.64 milliseconds |
+|  8 Nines | 99.999999%     | 315.58 milliseconds |  26.30 milliseconds | 864.00 microseconds |
+|  9 Nines | 99.9999999%    |  31.56 milliseconds |   2.63 milliseconds |  86.40 microseconds |
+| 10 Nines | 99.99999999%   |   3.16 milliseconds | 262.80 microseconds |   8.64 microseconds |
+| 11 Nines | 99.999999999%  | 315.68 microseconds |  26.28 microseconds | 864.00 nanoseconds  |
+| 12 Nines | 99.9999999999% |  31.56 microseconds |   2.63 microseconds |  86.40 nanoseconds  |
+
+**Rule of 4 Nines** means the service or system will be available 99.99% of the time. This allows for a maximum of 52 minutes of downtime per year. Whereas a service with the Rule of 11 Nines means the service will be up 99.999999999% of the time, would only be allowed 315.58 microseconds of downtime. 
+
+The Rule of Nines can also be used to calculate the durability of file and data storage services.
+
+**The Rule of 11 Nines** for durability means that even with 1 billion objects in storage, you would be able to go 100 years without losing a single object.
+
+Should the delivery metrics not be met by the provider, the SLA will detail the recourse process to make a complaint against the service provider. It may also detail the amount of money the customer may be able to recover since the service is not meeting the requirements of the SLA.
 
 ## Incident and Ticketing Systems
 
