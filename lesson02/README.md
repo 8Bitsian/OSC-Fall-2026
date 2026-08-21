@@ -6,11 +6,16 @@
 [![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/READMD.md)
 
 ### ℹ️ Introduction
-> Chapter Introduction
+> The **Operating System (OS)** is the software that provides a **User Interface (UI)** to the computer hardware and provides an environment in which to run software applications and create computer networks.
+> As a professional IT support representative or PC service technician, your job will include installing, configuring, maintaining, and troubleshooting **Personal Computer (PC)** OS.</br></br>
+> Before you can perform any of these tasks, you need to understand the basics of what an OS is, including the various versions, features, components, and technical capabilities.
+> With this knowledge, you can provide effective support for all types of system environments.</br></br>
+> In this lesson, you will learn how the basic administrative interfaces for Microsoft Windows 10 and Windows 11 can be used to configure user and system settings.
 
 ### #️⃣ Certification Preparation
 > This lesson prepares me for the following topics in the ![CompTIA A+ Core 2][CORE] Certification:
-> - Topic
+> - Configuring Windows user settings
+> - Configuring Windows system settings
 
 ## 📂 Files
 > 📑 Below are a list of files within this lesson and what they include.</br>
