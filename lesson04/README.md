@@ -3,7 +3,7 @@
 <!-- Get logos from https://simpleicons.org/ | https://primer.style/octicons/ | https://feathericons.com/ -->
 <!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
 
-[![Banner](images/Banner.png)](https://8bitsian.github.io/)
+[![Banner][BANNER]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
 
 ## ⏹️ Lesson 04 - Supporting Windows
 > *️⃣ This lesson teaches you how the basic administrative interfaces for Microsoft Windows 10 and Windows 11 can be used to configure user and system settings.</br>
@@ -38,6 +38,7 @@
 <!-- Links placed here for the file's readability -->
 
 <!-- General -->
+[BANNER]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/images/Banner.png
 [CERT]: https://www.comptia.org/en-us
 [CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
 [N01]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md
