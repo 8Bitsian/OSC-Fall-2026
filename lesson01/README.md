@@ -2,8 +2,8 @@
 *️⃣ This lesson covers industry best practices in support documentation and understanding and use professional communication identifying various operating systems and their uses.</br>
 *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.</br></br>
 [![Home_Badge][HOME]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
-[![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/tree/main/lesson03)
-[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/tree/main/lesson02)
+[![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/READMD.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/READMD.md)
 
 ## ℹ️ Managing Support Procedures
 Support for customers and clients provides an interesting dynamic to working as an ![Information Technology (IT) specialist][N01].
