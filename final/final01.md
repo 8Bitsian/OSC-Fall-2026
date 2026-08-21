@@ -3,7 +3,7 @@
 > Make sure to include a citation page with references using APA or MLA style.
 > You'll also have to provide a PowerPoint slide presentation with 5-7 slides maximum (including audio) to post for other students, including your name, the title of your project, a summary slide, and a graphic/chart slide.
 
-# 1️⃣ Environmental Impact Assessment
+# 3️⃣ Environmental Impact Assessment
 
 > This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
 >
