@@ -4,7 +4,7 @@
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/README.md)
-[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson04/READMD.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson04/README.md)
 
 ### ℹ️ Introduction
 > One of the roles that IT specialists take is to ensure that all desktop and laptop devices are configured correctly, maintained efficiently, and securely connected to the network, while also providing support for any technical issues that arise during rapid expansions.
@@ -22,10 +22,10 @@
 |:---   |:---  |
 | [![Powerpoint_Badge][PPTX]](./lesson02.pptx) | [![Lab_1_Badge][🔬01]](./lab02_01.md) |
 | [![Lesson_02_Badge][OVER]](./review12.md)    | [![Lab_2_Badge][🔬02]](./lab02_02.md) |
-| [![Note_01_Badge][📓01]](./note12_01.md)    | [![Lab_3_Badge][🔬03]](./lab02_03.md) |
-| [![Note_02_Badge][📓02]](./note12_02.md)    | [![Lab_4_Badge][🔬04]](./lab02_03.md) |
-| [![Note_03_Badge][📓03]](./note12_03.md)    | [![Lab_5_Badge][🔬05]](./lab02_03.md) |
-| [![Note_04_Badge][📓04]](./note12_04.md)    | |
+| [![Resources_Badge][EXTRA]](./resources.md)  | [![Lab_3_Badge][🔬03]](./lab02_03.md) |
+| [![Note_01_Badge][📓01]](./note12_01.md)    | [![Lab_4_Badge][🔬04]](./lab02_03.md) |
+| [![Note_02_Badge][📓02]](./note12_02.md)    | [![Lab_5_Badge][🔬05]](./lab02_03.md) |
+| [![Note_03_Badge][📓03]](./note12_03.md)    | |
 
 <!-- General -->
 [CERT]: https://www.comptia.org/en-us
@@ -39,10 +39,10 @@
 <!-- Notes -->
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_12_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
+[EXTRA]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 [📓01]: https://custom-icon-badges.demolab.com/badge/Use_Management_Consoles-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 [📓02]: https://custom-icon-badges.demolab.com/badge/Command_Line_Tools-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 [📓03]: https://custom-icon-badges.demolab.com/badge/Windows_Networking-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓04]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 
 <!-- Labs -->
 [🔬01]: https://custom-icon-badges.demolab.com/badge/1.7_Users_and_Groups-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
