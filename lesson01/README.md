@@ -36,3 +36,15 @@ As you work through the process, you will also need to ensure you are documentin
 - Understanding industry best practices in support documentation
 - Understanding and use processional communication
 - Identifying various operating systems and their uses
+
+<!-- Notes -->
+[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_11_Slides-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
+[L01]: https://custom-icon-badges.demolab.com/badge/Lesson_01_Overview-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
+[📓01]: https://custom-icon-badges.demolab.com/badge/Documentation-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Part%201&labelColor=8C52FF&color=FFDE59
+[📓02]: https://custom-icon-badges.demolab.com/badge/Professional_Communication-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Part%202&labelColor=8C52FF&color=FFDE59
+[📓03]: https://custom-icon-badges.demolab.com/badge/Types_of_Operating_Systems-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Part%203&labelColor=8C52FF&color=FFDE59
+[📓04]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Part%204&labelColor=8C52FF&color=FFDE59
+
+<!-- Labs -->
+[🔬01]: https://custom-icon-badges.demolab.com/badge/Final_Project-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[🔬01]: https://custom-icon-badges.demolab.com/badge/Hardware_Installation_%26_Maintenance-2026?style=flat&logo=file-directory&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
