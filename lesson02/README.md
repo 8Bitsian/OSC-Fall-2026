@@ -3,7 +3,7 @@
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson01/README.md)
-[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/README.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/READMD.md)
 
 ### ℹ️ Managing Support Procedures
 > Chapter Introduction
