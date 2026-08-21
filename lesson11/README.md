@@ -30,7 +30,7 @@
 | Extra | Notes | Labs |
 |:---   |:---   |:---  |
 | [![Powerpoint_Badge][PPTX]](./lesson11.pptx) | [![Note_01_Badge][📓01]](./note01.md) | [![Lab_01_Badge][🔬01]](./lab01.md) |
-| [![Lesson_01_Badge][OVER]](./review11.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_02_Badge][🔬02]](./lab02.md) |
+| [![Lesson_01_Badge][OVER]](./review21.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_02_Badge][🔬02]](./lab02.md) |
 | [![Resources_Badge][HELP]](./resource.md)    | | |
 
 <!-- Links placed here for the file's readability -->
