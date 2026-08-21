@@ -38,8 +38,8 @@ This lesson prepares me for the following topics in the ![CompTIA A+ Core 2][COR
 [CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
 [N01]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md
 [HOME]: https://custom-icon-badges.demolab.com/badge/HOME-2026?style=flat&logo=home&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[BACK]: https://custom-icon-badges.demolab.com/badge/BACK-2026?style=flat&logo=arrow-left-circle&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
-[NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right-circle&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[BACK]: https://custom-icon-badges.demolab.com/badge/BACK-2026?style=flat&logo=arrow-left&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Notes -->
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_11_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
