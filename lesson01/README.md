@@ -6,7 +6,7 @@
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
 [![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/README.md)
 
-### ℹ️ Managing Support Procedures
+### ℹ️ Introduction
 > Support for customers and clients provides an interesting dynamic to working as an ![Information Technology (IT) specialist][N01].
 Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary.
 Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.</br></br>
