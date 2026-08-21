@@ -4,7 +4,7 @@
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson01/README.md)
-[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/READMD.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/README.md)
 
 ### ℹ️ Introduction
 > The **Operating System (OS)** is the software that provides a **User Interface (UI)** to the computer hardware and provides an environment in which to run software applications and create computer networks.
