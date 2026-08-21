@@ -32,7 +32,7 @@
 | Extra | Notes | Labs |
 |:---   |:---   |:---  |
 | [![Powerpoint_Badge][PPTX]](./lesson12.pptx) | [![Note_01_Badge][📓01]](./note01.md) | [![Lab_01_Badge][🔬01]](./lab01.md) |
-| [![Lesson_01_Badge][OVER]](./review21.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_02_Badge][🔬02]](./lab02.md) |
+| [![Lesson_01_Badge][OVER]](./review22.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_02_Badge][🔬02]](./lab02.md) |
 | [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note03.md) | |
 
 <!-- Links placed here for the file's readability -->
@@ -51,7 +51,7 @@
 [FINAL]: https://custom-icon-badges.demolab.com/badge/FINAL-2026?style=flat&logo=project-roadmap&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Extra Help -->
-[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_21_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
+[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_22_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
 [HELP]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
 
