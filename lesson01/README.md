@@ -40,7 +40,7 @@ Understanding which application you are working with and ensuring the correct op
 <!-- Links placed here for the file's readability -->
 
 <!-- General -->
-[BANNER]: 
+[BANNER]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/images/Banner.png
 [CERT]: https://www.comptia.org/en-us
 [CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
 [N01]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md
