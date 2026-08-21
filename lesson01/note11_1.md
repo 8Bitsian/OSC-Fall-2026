@@ -1,17 +1,18 @@
-# Managing Support Procedures
-Support for customers and clients provides an interesting dynamic to working as an [**Information Technology (IT) specialist**](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md). Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary. Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.
-
-As you work through the process, you will also need to ensure you are documenting the steps you have taken and the results of any test you have run. In some cases, the problem will not be resolved in the same day and other team members may need to continue to find a solution after your shift ends/ Tracking and documentation of steps taken thus far allows them to continue the process rather than starting all over again with the issue. Understanding which application you are working with and ensuring the correct operating system has been identified will be helpful in finding a resolution as well.
-
-## Prepare for A+ Core 2 by:
-- Understanding industry best practices in support documentation
-- Understanding and use processional communication
-- Identifying various operating systems and their uses
-
 # Documentation
 When nearing the end of your shifts you have to think about handing the issue over to someone on the next support shift. You'll likely log into the support ticket system and begin making notes about what you have done to troubleshoot the issue so far. Since we cannot be on shift 24/7/365, your documentation of your steps will allow the next shift to pick up where you left off and continue to work toward a solution.
 
-## Standard Operating Procedure
+## Learning Outcomes:
+As you study this lesson, answer the following:
+- What is an SOP and how is it different from a policy?
+- How do ticketing systems assist in documentation of issues?
+- How are support tickets prioritized?
+- What are the characteristics of good documentation?
+
+## A+ Core 2 Objectives:
+- 4.1: Given a scenario, implement best practices associated with documentation and support systems information management.
+- 4.6: Explain the importance of prohibited content/activity and privacy, licensing, and policy concepts. (Acceptable Use Policy)
+
+# Standard Operating Procedure
 Employees must understand how to use computers and networked services securely and safely and be aware of their responsibilities. To support this, the organization needs to create written policies and procedures to help staff understand and fulfill their tasks and follow best practices:
 - A policy is an overall statement of intent
 - A **Standard Operating Procedure (SOP)** is a step-by-step list of the actions that must be completed for any given task to comply with policy. Most IT procedures should be governed by SOPs
@@ -22,12 +23,12 @@ Typical examples of SOPs are as follows:
 - New-user setup checklist as part of the on-boarding process for new employees and employees changing job roles. Typical tasks include identification/enrollment with secure credentials, allocation of devices, and allocation of permissions/assignment to security groups
 - End-user termination checklist as part of the off-boarding process for employees who are retiring, changing job roles, or have been fired. Typical tasks include returning and sanitizing devices, releasing software licenses, and disabling account permissions/access
 
-## Service Level Agreements
+# Service Level Agreements
 **Service Level Agreements (SLAs)** define the level of service requirements from an internal department or external, third-party vendor. Examples of services that most likely have an SLA in place include:
 - Internal departments of the company that are providing resources to one another such as access to hardware resources; a company's maintenance department may also have a SLA that details how they are to provide support to the other departments within the company when it comes to building maintenance, etc.
 - External agreements will normally be provided by the ISP as to the metrics of throughput they will provide a company for the internet connection; a cloud service provider will also have a SLA in place that details the service delivery metrics of the organizations cloud resources. 
 
-### The Rule of Nines
+## The Rule of Nines
 SLAs normally include a description of the service being provided, along with the metrics that are used to measure the level of service being provided. The Rule of Nines is a very popular metric used to dictate the expected up time, when the service is available, and what is not considered down time (service not available) for the service. For example, the **Rule of 4 Nines** means the service or system will be available 99.99% of the time. This allows for a maximum of 52 minutes of downtime per year. Whereas a service with the **Rule of 11 Nines** means the service will be up 99.999999999% of the time, would only be allowed 315.58 microseconds of downtime.
 
 The Rule of Nines can also be used to calculate the durability of file and data storage services. For example, the Rule of 11 Nines for durability means that even with 1 billion objects in storage, you would be able to go 100 years without losing a single object.
@@ -49,7 +50,7 @@ The Rule of Nines can also be used to calculate the durability of file and data 
 
 Should the delivery metrics not be met by the provider, the SLA will detail the recourse process to make a complaint against the service provider. It may also detail the amount of money the customer may be able to recover since the service is not meeting the requirements of the SLA.
 
-## Incident and Ticketing Systems
+# Incident and Ticketing Systems
 A **ticketing system** manages requests, incidents, and problems. Ticketing systems can be used to support internal end-users and external customers.
 
 The general process of ticket management is as follows:
@@ -60,8 +61,8 @@ The general process of ticket management is as follows:
 3. The agent categorizes the support case, assesses how urgent or severe it is, and determines how long it will take to fix
 4. The agent may take the user through initial troubleshooting steps. If these do not work, the ticket may be escalated to desk-side support or a senior technician
 
-## Categories and Severity
-### Categories
+# Categories and Severity
+## Categories
 **Categories** and **subcategories** group related tickets together. This is useful for assigning tickets to the relevant support section or technician and for reporting and analysis.
 
 Service management standards distinguish between the following basic ticket types:
@@ -73,7 +74,7 @@ Using these types as top-level categories for an end-user facing system is not a
 
 One strategy is for a few simple, top-level categories that end-users can self-select, such as New Device Request, New App Request, Employee Onboarding, Employee Offboarding, Help/Support, and Security Incident. Then, when assigned to the ticket, the support technician can select from a longer list of additional categories and subcategories to help group related tickets for reporting and analysis purposes. Alternatively, or to supplement categories, the system might support adding standard keyword tags to each ticket. A keyword system is more flexible but does depend on each technician tagging the ticket appropriately.
 
-### Severity
+## Severity
 A **severity level** is a way for classifying tickets into a priority order. As with categories, these should not be overly complex. Three severity levels based on impact might be considered sufficient:
 - **Critical**: Incidents that have a widespread affect on end-users or involve potential or actual data breach
 - **Major**: Incidents that affect a limited group of end users or involve a suspected security violation
@@ -81,20 +82,14 @@ A **severity level** is a way for classifying tickets into a priority order. As 
 
 More discrete levels may be required if the system must prioritize hundreds or thousands of minor incidents per week. A more sophisticated system that measures both impact and urgency might be required. Severity levels can also drive a notification system to make senior technicians and managers immediately aware of major and critical incidents as they arise.
 
-## Ticket Management
+# Ticket Management
 
-## Support Documentation and Knowledge Base Articles
+# Support Documentation and Knowledge Base Articles
 
-## Lessons Learned
+# Lessons Learned
 
-## Clear Written Communication
+# Clear Written Communication
 
-## Knowledge Base
+# Knowledge Base
 
-## Policy Documentation
-
-# Professional Communication
-
-# Types of Operating Systems
-
-# Additional Resources
+# Policy Documentation
