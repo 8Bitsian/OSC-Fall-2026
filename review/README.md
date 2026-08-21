@@ -5,13 +5,13 @@
 .<br/>
 
 📂 Files will be listed below:
-- `01.md` | What Does an IT Specialist Do?
-- `02.md` | Installing Motherboards & Connectors
-- `03.md` | Installing System Devices
-- `04.md` | Troubleshooting PC Hardware
-- `05.md` | Comparing Local Networking Hardware
-- `06.md` | Configuring Network Addressing & Internet Connections
-- `07.md` | Supporting Network Services
-- `08.md` | Summarizing Virtualization & Cloud concepts
-- `09.md` | Supporting Mobile Devices
-- `10.md` | Supporting Print Devices
+- `note01.md` | What Does an IT Specialist Do?
+- `note02.md` | Installing Motherboards & Connectors
+- `note03.md` | Installing System Devices
+- `note04.md` | Troubleshooting PC Hardware
+- `note05.md` | Comparing Local Networking Hardware
+- `note06.md` | Configuring Network Addressing & Internet Connections
+- `note07.md` | Supporting Network Services
+- `note08.md` | Summarizing Virtualization & Cloud concepts
+- `note09.md` | Supporting Mobile Devices
+- `note10.md` | Supporting Print Devices
