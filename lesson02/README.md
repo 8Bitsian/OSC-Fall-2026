@@ -5,7 +5,7 @@
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson01/README.md)
 [![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/READMD.md)
 
-### ℹ️ Managing Support Procedures
+### ℹ️ Introduction
 > Chapter Introduction
 
 ### #️⃣ Certification Preparation
