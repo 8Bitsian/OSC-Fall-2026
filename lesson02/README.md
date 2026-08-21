@@ -11,8 +11,8 @@
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
 [![Class_Badge][HI&M]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/README.md)
-[![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
-[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/README.md)
+[![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson01/README.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/README.md)
 [![Final_Badge][FINAL]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/final/README.md)
 
 ### ℹ️ Introduction
