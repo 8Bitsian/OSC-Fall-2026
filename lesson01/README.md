@@ -35,9 +35,9 @@ Understanding which application you are working with and ensuring the correct op
 
 | Extra | Notes | Labs |
 |:---   |:---   |:---  |
-| [![Powerpoint_Badge][PPTX]](./lesson01.pptx) | [![Note_01_Badge][📓01]](./note11_01.md) | [![Lab_13_Badge][🔬01]](./lab01_13.md) |
-| [![Lesson_01_Badge][OVER]](./review11.md)    | [![Note_02_Badge][📓02]](./note11_02.md) | [![Lab_14_Badge][🔬02]](./lab01_14.md) |
-| [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note11_03.md) | [![Lab_15_Badge][🔬03]](./lab01_15.md) |
+| [![Powerpoint_Badge][PPTX]](./lesson01.pptx) | [![Note_01_Badge][📓01]](./note01.md) | [![Lab_13_Badge][🔬01]](./lab01.md) |
+| [![Lesson_01_Badge][OVER]](./review11.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_14_Badge][🔬02]](./lab02.md) |
+| [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note03.md) | [![Lab_15_Badge][🔬03]](./lab03.md) |
 
 <!-- Links placed here for the file's readability -->
 
