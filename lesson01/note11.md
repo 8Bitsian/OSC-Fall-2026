@@ -50,6 +50,15 @@ The Rule of Nines can also be used to calculate the durability of file and data 
 Should the delivery metrics not be met by the provider, the SLA will detail the recourse process to make a complaint against the service provider. It may also detail the amount of money the customer may be able to recover since the service is not meeting the requirements of the SLA.
 
 ## Incident and Ticketing Systems
+A **ticketing system** manages requests, incidents, and problems. Ticketing systems can be used to support internal end-users and external customers.
+
+The general process of ticket management is as follows:
+1. A user contacts the help desk, by phone or email or directly via the ticketing system. A unique job ticket ID is generated, and an agent is assigned to the ticket. The ticket will also need to capture some basic details:
+   - User Information: The user's name, contact details, and other relevant information, such as department or job role. It may be possible to link the ticket to an employee database or **Customer Relation Management (CRM)** database
+   - Device Information: If relevant, the ticket should record information about the user's device. It might be possible to link the relevant inventory record via a service tag or asset ID
+2. The user supplies a description of the issue. An again might then ask clarifying questions to ensure an accurate initial description
+3. The agent categorizes the support case, assesses how urgent or severe it is, and determines how long it will take to fix
+4. The agent may take the user through initial troubleshooting steps. If these do not work, the ticket may be escalated to desk-side support or a senior technician
 
 ## Categories and Severity
 
