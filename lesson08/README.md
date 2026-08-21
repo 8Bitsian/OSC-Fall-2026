@@ -53,10 +53,10 @@
 [HELP]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
 
 <!-- Notes -->
-[📓01]: https://custom-icon-badges.demolab.com/badge/Blank-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%201.0&labelColor=8C52FF&color=FFDE59
-[📓02]: https://custom-icon-badges.demolab.com/badge/Blank-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%202.0&labelColor=8C52FF&color=FFDE59
-[📓03]: https://custom-icon-badges.demolab.com/badge/Blank-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%203.0&labelColor=8C52FF&color=FFDE59
-[📓04]: https://custom-icon-badges.demolab.com/badge/Blank-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%204.0&labelColor=8C52FF&color=FFDE59
+[📓01]: https://custom-icon-badges.demolab.com/badge/Attacks,_Threats,_and_Vulnerabilities-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%201.0&labelColor=8C52FF&color=FFDE59
+[📓02]: https://custom-icon-badges.demolab.com/badge/Wireless_Security_Protocols-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%202.0&labelColor=8C52FF&color=FFDE59
+[📓03]: https://custom-icon-badges.demolab.com/badge/SOHO_Router_Security-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%203.0&labelColor=8C52FF&color=FFDE59
+[📓04]: https://custom-icon-badges.demolab.com/badge/Additional_Security_Measures-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%204.0&labelColor=8C52FF&color=FFDE59
 
 <!-- Labs -->
 [🔬01]: https://custom-icon-badges.demolab.com/badge/Respond_to_Social_Engineering_Exploits-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab%201.3&labelColor=8C52FF&color=FFDE59
