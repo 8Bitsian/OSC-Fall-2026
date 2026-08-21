@@ -10,8 +10,10 @@
 *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.</br>
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
+[![Class_Badge][HI&M]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/README.md)
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
 [![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/README.md)
+[![Final_Badge][FINAL]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/final/README.md)
 
 ### ℹ️ Introduction
 > Support for customers and clients provides an interesting dynamic to working as an ![Information Technology (IT) specialist][N01].
@@ -47,8 +49,10 @@ Understanding which application you are working with and ensuring the correct op
 
 <!-- Navigation -->
 [HOME]: https://custom-icon-badges.demolab.com/badge/HOME-2026?style=flat&logo=home&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[HI&M]: https://custom-icon-badges.demolab.com/badge/HI&M-2026?style=flat&logo=archive&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [BACK]: https://custom-icon-badges.demolab.com/badge/BACK-2026?style=flat&logo=arrow-left&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[FINAL]: https://custom-icon-badges.demolab.com/badge/FINAL-2026?style=flat&logo=project-roadmap&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Extra Help -->
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_11_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
