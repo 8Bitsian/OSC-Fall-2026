@@ -39,7 +39,7 @@
 <!-- Notes -->
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_12_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
-[EXTRA]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[EXTRA]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
 [📓01]: https://custom-icon-badges.demolab.com/badge/Use_Management_Consoles-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 [📓02]: https://custom-icon-badges.demolab.com/badge/Command_Line_Tools-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 [📓03]: https://custom-icon-badges.demolab.com/badge/Windows_Networking-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
