@@ -20,35 +20,35 @@
 ## 📂 Files
 > 📑 Below are a list of files within this lesson and what they include.</br>
 
-| Notes | Labs |
-|:---   |:---  |
-| [![Powerpoint_Badge][PPTX]](./lesson02.pptx) | [![Lab_1_Badge][🔬01]](./lab02_01.md) |
-| [![Lesson_02_Badge][OVER]](./review12.md)    | [![Lab_2_Badge][🔬02]](./lab02_02.md) |
-| [![Note_01_Badge][📓01]](./note12_01.md)    | [![Lab_3_Badge][🔬03]](./lab02_03.md) |
-| [![Note_02_Badge][📓02]](./note12_02.md)    | |
-| [![Note_03_Badge][📓03]](./note12_03.md)    | |
-| [![Note_04_Badge][📓04]](./note12_04.md)    | |
-| [![Note_05_Badge][📓05]](./note12_05.md)    | |
+| Extra | Notes | Labs |
+|:---   |:---   |:---  |
+| [![Powerpoint_Badge][PPTX]](./lesson02.pptx) | [![Note_01_Badge][📓01]](./note01.md) | [![Lab_01_Badge][🔬01]](./lab01.md) |
+| [![Lesson_01_Badge][OVER]](./review12.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_02_Badge][🔬02]](./lab02.md) |
+| [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note03.md) | [![Lab_03_Badge][🔬03]](./lab03.md) |
+|                                              | [![Note_04_Badge][📓04]](./note04.md) | |
 
 <!-- General -->
 [CERT]: https://www.comptia.org/en-us
 [CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
+[N01]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md
 
 <!-- Navigation -->
 [HOME]: https://custom-icon-badges.demolab.com/badge/HOME-2026?style=flat&logo=home&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [BACK]: https://custom-icon-badges.demolab.com/badge/BACK-2026?style=flat&logo=arrow-left&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
-<!-- Notes -->
-[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_12_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
+<!-- Extra Help -->
+[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_11_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
-[📓01]: https://custom-icon-badges.demolab.com/badge/Window_User_Settings-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓02]: https://custom-icon-badges.demolab.com/badge/Windows_System_Settings-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓03]: https://custom-icon-badges.demolab.com/badge/Install_&_Configure_Applications-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓04]: https://custom-icon-badges.demolab.com/badge/Cloud_Based_Applications-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓05]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[HELP]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
+
+<!-- Notes -->
+[📓01]: https://custom-icon-badges.demolab.com/badge/Window_User_Settings-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%201.0&labelColor=8C52FF&color=FFDE59
+[📓02]: https://custom-icon-badges.demolab.com/badge/Windows_System_Settings-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%202.0&labelColor=8C52FF&color=FFDE59
+[📓03]: https://custom-icon-badges.demolab.com/badge/Install_&_Configure_Applications-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%203.0&labelColor=8C52FF&color=FFDE59
+[📓04]: https://custom-icon-badges.demolab.com/badge/Cloud_Based_Applications-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%204.0&labelColor=8C52FF&color=FFDE59
 
 <!-- Labs -->
-[🔬01]: https://custom-icon-badges.demolab.com/badge/1.3_Explore_Windows_Settings-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
-[🔬02]: https://custom-icon-badges.demolab.com/badge/2.3_Configure_Windows_Update-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
-[🔬03]: https://custom-icon-badges.demolab.com/badge/4.6_Create_Azure_Storage_Account-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
+[🔬01]: https://custom-icon-badges.demolab.com/badge/Explore_Windows_Settings-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab%201.3&labelColor=8C52FF&color=FFDE59
+[🔬02]: https://custom-icon-badges.demolab.com/badge/Configure_Windows_Update-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab%202.3&labelColor=8C52FF&color=FFDE59
+[🔬03]: https://custom-icon-badges.demolab.com/badge/Create_Azure_Storage_Account-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab%204.6&labelColor=8C52FF&color=FFDE59
