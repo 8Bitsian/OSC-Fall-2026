@@ -4,7 +4,7 @@
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
-[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/READMD.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/README.md)
 
 ## ℹ️ Managing Support Procedures
 > Support for customers and clients provides an interesting dynamic to working as an ![Information Technology (IT) specialist][N01].
