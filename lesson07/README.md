@@ -3,8 +3,8 @@
 > *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
-[![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/README.md)
-[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson05/README.md)
+[![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson06/README.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson08/README.md)
 
 ### ℹ️ Introduction
 > Some companies used a diverse range of operating systems (OSs) other than Windows, like Linux and macOS.
