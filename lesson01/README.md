@@ -24,14 +24,11 @@ Understanding which application you are working with and ensuring the correct op
 ## 📂 Files
 > 📑 Below are a list of files within this lesson and what they include.</br>
 
-| Notes | Labs |
-|:---   |:---  |
-| [![Powerpoint_Badge][PPTX]](./lesson01.pptx) | [![Lab_13_Badge][🔬01]](./lab01_13.md) |
-| [![Lesson_01_Badge][OVER]](./review11.md)    | [![Lab_14_Badge][🔬02]](./lab01_14.md) |
-| [![Note_01_Badge][📓01]](./note11_01.md)    | [![Lab_15_Badge][🔬03]](./lab01_15.md) |
-| [![Note_02_Badge][📓02]](./note11_02.md)    | |
-| [![Note_03_Badge][📓03]](./note11_03.md)    | |
-| [![Note_04_Badge][📓04]](./note11_04.md)    | |
+| Extra | Notes | Labs |
+|:---   |:---   |:---  |
+| [![Powerpoint_Badge][PPTX]](./lesson01.pptx) | [![Note_01_Badge][📓01]](./note11_01.md) | [![Lab_13_Badge][🔬01]](./lab01_13.md) |
+| [![Lesson_01_Badge][OVER]](./review11.md)    | [![Note_02_Badge][📓02]](./note11_02.md) | [![Lab_14_Badge][🔬02]](./lab01_14.md) |
+| [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note11_03.md) | [![Lab_15_Badge][🔬03]](./lab01_15.md) |
 
 <!-- General -->
 [CERT]: https://www.comptia.org/en-us
@@ -43,15 +40,17 @@ Understanding which application you are working with and ensuring the correct op
 [BACK]: https://custom-icon-badges.demolab.com/badge/BACK-2026?style=flat&logo=arrow-left&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
-<!-- Notes -->
+<!-- Extra Help -->
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_11_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
-[📓01]: https://custom-icon-badges.demolab.com/badge/Documentation-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓02]: https://custom-icon-badges.demolab.com/badge/Professional_Communication-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓03]: https://custom-icon-badges.demolab.com/badge/Types_of_Operating_Systems-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
-[📓04]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[HELP]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
+
+<!-- Notes -->
+[📓01]: https://custom-icon-badges.demolab.com/badge/Documentation-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%201.0&labelColor=8C52FF&color=FFDE59
+[📓02]: https://custom-icon-badges.demolab.com/badge/Professional_Communication-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%202.0&labelColor=8C52FF&color=FFDE59
+[📓03]: https://custom-icon-badges.demolab.com/badge/Types_of_Operating_Systems-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%203.0&labelColor=8C52FF&color=FFDE59
 
 <!-- Labs -->
-[🔬01]: https://custom-icon-badges.demolab.com/badge/1.13_Create_a_Ticket-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
-[🔬02]: https://custom-icon-badges.demolab.com/badge/1.14_Close_a_Ticket-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
-[🔬03]: https://custom-icon-badges.demolab.com/badge/1.15_Use_Help_Desk_System-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
+[🔬01]: https://custom-icon-badges.demolab.com/badge/Create_a_Ticket-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab%201.13&labelColor=8C52FF&color=FFDE59
+[🔬02]: https://custom-icon-badges.demolab.com/badge/Close_a_Ticket-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab%201.14&labelColor=8C52FF&color=FFDE59
+[🔬03]: https://custom-icon-badges.demolab.com/badge/Use_Help_Desk_System-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab%201.15&labelColor=8C52FF&color=FFDE59
