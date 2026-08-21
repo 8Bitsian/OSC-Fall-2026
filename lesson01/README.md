@@ -1,3 +1,10 @@
+<!-- Get more cards from https://github.com/DenverCoder1/ -->
+<!-- Get badges from https://shields.io/ | Start link with: https://img.shields.io/badge/ -->
+<!-- Get logos from https://simpleicons.org/ | https://primer.style/octicons/ | https://feathericons.com/ -->
+<!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
+
+[![Banner](images/Banner.png)](https://8bitsian.github.io/)
+
 ## ⏹️ Lesson 01 - Communication & Documentation Standards
 > *️⃣ This lesson covers industry best practices in support documentation and understanding and use professional communication identifying various operating systems and their uses.</br>
 *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.</br>
@@ -29,6 +36,8 @@ Understanding which application you are working with and ensuring the correct op
 | [![Powerpoint_Badge][PPTX]](./lesson01.pptx) | [![Note_01_Badge][📓01]](./note11_01.md) | [![Lab_13_Badge][🔬01]](./lab01_13.md) |
 | [![Lesson_01_Badge][OVER]](./review11.md)    | [![Note_02_Badge][📓02]](./note11_02.md) | [![Lab_14_Badge][🔬02]](./lab01_14.md) |
 | [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note11_03.md) | [![Lab_15_Badge][🔬03]](./lab01_15.md) |
+
+<!-- Links placed here for the file's readability -->
 
 <!-- General -->
 [CERT]: https://www.comptia.org/en-us
