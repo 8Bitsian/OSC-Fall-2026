@@ -1,3 +1,10 @@
+<!-- Get more cards from https://github.com/DenverCoder1/ -->
+<!-- Get badges from https://shields.io/ | Start link with: https://img.shields.io/badge/ -->
+<!-- Get logos from https://simpleicons.org/ | https://primer.style/octicons/ | https://feathericons.com/ -->
+<!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
+
+[![Banner][BANNER]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
+
 ## ⏹️ Lesson 05 - Securing Windows
 > *️⃣ This lesson teaches you the basics principles of managing users in both local accounts or domain network accounts.</br>
 > *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
@@ -32,7 +39,10 @@
 | [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note03.md) | [![Lab_03_Badge][🔬03]](./lab03.md) |
 |                                              |                                       | [![Lab_04_Badge][🔬04]](./lab04.md) |
 
+<!-- Links placed here for the file's readability -->
+
 <!-- General -->
+[BANNER]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/images/Banner.png
 [CERT]: https://www.comptia.org/en-us
 [CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
 [N01]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md
