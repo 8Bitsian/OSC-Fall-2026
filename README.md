@@ -7,7 +7,7 @@
 
 ## ⏹️ OSC-Fall-2026
 >ℹ️ Coursework and assignments for my Operating Systems Concepts (OCS) course, including weekly exercises and project submissions.<br/>
-*️⃣ The course requires that I utilize [CompTIA](https://www.comptia.org/en-us/) for the CertMaster Learn tool.<br/>
+*️⃣ The course requires that I utilize [CompTIA](https://www.comptia.org/en-us/) for the CertMaster Learn tool as part of the course material.<br/>
 *️⃣ This course prepares me for the [CompTIA A+ Core 1 & 2](https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/) Certification.<br/><br/>
 > [![my-website][WEB]](https://8bitsian.github.io/)
 [![stack-overflow][STACK]](https://stackoverflow.com/users/32219858/8bitsian)
@@ -21,6 +21,9 @@
 ![total commit][t_commit]
 ![last commit][l_commit]
 ![Total Issues][t_issue]
+
+> [![Home_Badge][HOME]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson01/README.md)
 
 ## 🗃️ Lessons
 > 📂 Below are a list of lesson folders and what they include.</br>
@@ -51,6 +54,10 @@
 [t_commit]: https://custom-icon-badges.demolab.com/github/commit-activity/t/8Bitsian/JAVA-Fall-2026?style=flat&logo=git-commit&logoColor=FFFFF0&label=Total%20Commits&labelColor=8C52FF&color=FFDE59
 [l_commit]: https://custom-icon-badges.demolab.com/github/last-commit/8Bitsian/JAVA-Fall-2026?display_timestamp=author&style=flat&logo=git-merge&logoColor=FFFFF0&label=Last%20Commit&labelColor=8C52FF&color=FFDE59
 [t_issue]: https://custom-icon-badges.demolab.com/github/issues/8Bitsian/JAVA-Fall-2026?style=flat&logo=issue-opened&logoColor=FFFFF0&label=Total%20Issues&labelColor=8C52FF&color=FFDE59
+
+<!-- Navigation -->
+[HOME]: https://custom-icon-badges.demolab.com/badge/HOME-2026?style=flat&logo=home&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Lessons -->
 [L1]: https://custom-icon-badges.demolab.com/badge/Communication_%26_Documentation_Standards-2026?style=flat&logo=file-directory&logoColor=FFFFF0&label=Lesson%201&labelColor=8C52FF&color=FFDE59
