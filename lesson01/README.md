@@ -8,9 +8,9 @@
 - `lesson01.pptx` | Slides
 - `review11.md`   | Overview
 - `note11_01.md`  | 📓 Note: Documentation
-- `11_01_13.md`   | 🔬 Lab: Create a Ticket
-- `11_01_14.md`   | 🔬 Lab: Close a Ticket
-- `11_01_15.md`   | 🔬 Lab: Use Help Desk System
+- `lab01_13.md`   | 🔬 Lab: Create a Ticket
+- `lab01_14.md`   | 🔬 Lab: Close a Ticket
+- `lab01_15.md`   | 🔬 Lab: Use Help Desk System
 - `note11_02.md`  | 📓 Note: Professional Communication
 - `note11_03.md`  | 📓 Note: Types of Operating Systems
 - `note11_04.md`  | 📓 Note: Additional Resources
