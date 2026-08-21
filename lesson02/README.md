@@ -1,11 +1,49 @@
 ## ⏹️ Lesson 02 - Configuring Windows
-ℹ️ This lesson covers _.<br/>
-*️⃣ The course requires that I utilize [CompTIA CertMaster](https://www.comptia.org/en-us/).<br/>
-*️⃣ This lesson prepares me for the [CompTIA A+ Core 2](https://www.comptia.org/en-us/certifications/a/core-2-v15/) Certification
-.<br/>
+> *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
 
-📂 Files will be listed below:
-- `12_0.md` | Introduction
-- `12_01_03.md` | Exploring Window Settings
-- `12_02_03.md` | Configure Windows Update
-- `12_04_06.md` | Create Azure Storage Account
+> [![Home_Badge][HOME]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
+[![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson01/README.md)
+[![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson03/README.md)
+
+### ℹ️ Managing Support Procedures
+> Chapter Introduction
+
+### #️⃣ Certification Preparation
+> This lesson prepares me for the following topics in the ![CompTIA A+ Core 2][CORE] Certification:
+> - Topic
+
+## 📂 Files
+> 📑 Below are a list of files within this lesson and what they include.</br>
+
+| Notes | Labs |
+|:---   |:---  |
+| [![Powerpoint_Badge][PPTX]](./lesson02.pptx) | [![Lab_1_Badge][🔬01]](./lab02_01.md) |
+| [![Lesson_02_Badge][OVER]](./review12.md)    | [![Lab_2_Badge][🔬02]](./lab02_02.md) |
+| [![Note_01_Badge][📓01]](./note12_01.md)    | [![Lab_3_Badge][🔬03]](./lab02_03.md) |
+| [![Note_02_Badge][📓02]](./note12_02.md)    | |
+| [![Note_03_Badge][📓03]](./note12_03.md)    | |
+| [![Note_04_Badge][📓04]](./note12_04.md)    | |
+| [![Note_05_Badge][📓05]](./note12_05.md)    | |
+
+<!-- General -->
+[CERT]: https://www.comptia.org/en-us
+[CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
+
+<!-- Navigation -->
+[HOME]: https://custom-icon-badges.demolab.com/badge/HOME-2026?style=flat&logo=home&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[BACK]: https://custom-icon-badges.demolab.com/badge/BACK-2026?style=flat&logo=arrow-left&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+
+<!-- Notes -->
+[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_12_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
+[OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
+[📓01]: https://custom-icon-badges.demolab.com/badge/Window_User_Settings-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[📓02]: https://custom-icon-badges.demolab.com/badge/Windows_System_Settings-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[📓03]: https://custom-icon-badges.demolab.com/badge/Install_&_Configure_Applications-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[📓04]: https://custom-icon-badges.demolab.com/badge/Cloud_Based_Applications-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[📓05]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+
+<!-- Labs -->
+[🔬01]: https://custom-icon-badges.demolab.com/badge/1.3_Explore_Windows_Settings-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
+[🔬02]: https://custom-icon-badges.demolab.com/badge/2.3_Configure_Windows_Update-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
+[🔬03]: https://custom-icon-badges.demolab.com/badge/4.6_Create_Azure_Storage_Account-2026?style=flat&logo=beaker&logoColor=FFFFF0&label=Lab&labelColor=8C52FF&color=FFDE59
