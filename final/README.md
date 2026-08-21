@@ -15,36 +15,36 @@
 > Make sure to include a citation page with references using APA or MLA style.
 > You'll also have to provide a PowerPoint slide presentation with 5-7 slides maximum (including audio) to post for other students, including your name, the title of your project, a summary slide, and a graphic/chart slide.
 
-### 1️⃣ Environmental Impact Assessment
-> This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
->
-> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
-> - 4.5 Summarize environmental impacts and local environmental controls
-
-### 2️⃣ Hands-On AI Experimentation
-> This project is designed to help you gain practical experience with using AI tools and platforms by exploring an AI tool or platform, documenting your findings, and reflecting on your experience. By completing this activity, you will develop a foundational understanding of how AI technologies work, their potential applications, and how to interact with them effectively.
->
-> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
-> - 4.10 Explain basic concepts related to artificial intelligence (AI)
-
-### 3️⃣ Security Breach Research and Presentation
-> This project is designed to help you understand the real-world implications of account security breaches, identifying vulnerabilities in security systems, and exploring preventative measures by researching these areas and creating a presentation. By completing this activity, you will gain practical knowledge of cybersecurity concepts, risk mitigation strategies, and the importance of proactive security measures in safeguarding information.
->
-> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
-> - 2.4 Summarize types of malware and tools/methods for detection, removal, and prevention
-
-### 4️⃣ Windows Security Infographic Capstone
+### 1️⃣ Windows Security Infographic Capstone
 > This project is designed to help you understand and articulate Windows Security settings by researching key Windows Security settings and creating an infographic.
 >
 > This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
 > - 2.1 Summarize various security measures and their purposes
 > - 2.2 Given a scenario, configure and apply basic Microsoft Windows OS security settings
 
-### 5️⃣ Elevator Pitch Practice
+### 2️⃣ Security Breach Research and Presentation
+> This project is designed to help you understand the real-world implications of account security breaches, identifying vulnerabilities in security systems, and exploring preventative measures by researching these areas and creating a presentation. By completing this activity, you will gain practical knowledge of cybersecurity concepts, risk mitigation strategies, and the importance of proactive security measures in safeguarding information.
+>
+> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
+> - 2.4 Summarize types of malware and tools/methods for detection, removal, and prevention
+
+### 3️⃣ Environmental Impact Assessment
+> This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
+>
+> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
+> - 4.5 Summarize environmental impacts and local environmental controls
+
+### 4️⃣ Elevator Pitch Practice
 > This project is designed to help you improve your communication skills by crafting and delivering a professional and concise elevator pitch in the form of a video or podcast. An elevator pitch is a short, persuasive speech intended to generate interest in who you are or what you're working on. It should be clear, engaging, and professional, with a duration of no more than 30 - 60 seconds. Through this activity, you will learn how to confidently present yourself or a project you are working on in a clear and engaging way through the submission of an elevator pitch.
 >
 > This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
 > - 4.7 Given a scenario, use proper communication techniques and professionalism
+
+### 5️⃣ Hands-On AI Experimentation
+> This project is designed to help you gain practical experience with using AI tools and platforms by exploring an AI tool or platform, documenting your findings, and reflecting on your experience. By completing this activity, you will develop a foundational understanding of how AI technologies work, their potential applications, and how to interact with them effectively.
+>
+> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
+> - 4.10 Explain basic concepts related to artificial intelligence (AI)
 
 <!-- Links placed here for the file's readability -->
 
