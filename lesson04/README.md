@@ -1,3 +1,10 @@
+<!-- Get more cards from https://github.com/DenverCoder1/ -->
+<!-- Get badges from https://shields.io/ | Start link with: https://img.shields.io/badge/ -->
+<!-- Get logos from https://simpleicons.org/ | https://primer.style/octicons/ | https://feathericons.com/ -->
+<!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
+
+[![Banner](images/Banner.png)](https://8bitsian.github.io/)
+
 ## ⏹️ Lesson 04 - Supporting Windows
 > *️⃣ This lesson teaches you how the basic administrative interfaces for Microsoft Windows 10 and Windows 11 can be used to configure user and system settings.</br>
 > *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
@@ -27,6 +34,8 @@
 | [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note03.md) | [![Lab_03_Badge][🔬03]](./lab03.md) |
 |                                              | [![Note_04_Badge][📓04]](./note04.md) | [![Lab_04_Badge][🔬04]](./lab04.md) |
 |                                              |                                       | [![Lab_05_Badge][🔬05]](./lab05.md) |
+
+<!-- Links placed here for the file's readability -->
 
 <!-- General -->
 [CERT]: https://www.comptia.org/en-us
