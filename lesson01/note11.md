@@ -1,5 +1,5 @@
 # Managing Support Procedures
-Support for customers and clients provides an interesting dynamic to working as an [**Information Technology (IT) specialist**](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/01.md). Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary. Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.
+Support for customers and clients provides an interesting dynamic to working as an [**Information Technology (IT) specialist**](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md). Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary. Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.
 
 As you work through the process, you will also need to ensure you are documenting the steps you have taken and the results of any test you have run. In some cases, the problem will not be resolved in the same day and other team members may need to continue to find a solution after your shift ends/ Tracking and documentation of steps taken thus far allows them to continue the process rather than starting all over again with the issue. Understanding which application you are working with and ensuring the correct operating system has been identified will be helpful in finding a resolution as well.
 
@@ -61,6 +61,25 @@ The general process of ticket management is as follows:
 4. The agent may take the user through initial troubleshooting steps. If these do not work, the ticket may be escalated to desk-side support or a senior technician
 
 ## Categories and Severity
+### Categories
+**Categories** and **subcategories** group related tickets together. This is useful for assigning tickets to the relevant support section or technician and for reporting and analysis.
+
+Service management standards distinguish between the following basic ticket types:
+- **Requests**: Provision things that the IT department has a SOP for, such as setting up new user accounts, purchasing new hardware or software, deploying a web server, etc. Complex requests that aren't covered by existing procedures are better treated as projects rather than handled via the ticketing system
+- **Incidents**: Related to any errors or unexpected situations faced by end-users or customers. Incidents may be further categorized by severity (impact and urgency), such as minor, major, and critical.
+- **Problems**: Causes of incidents and will probably require analysis and service reconfiguration to solve. This type of ticket is likely to be generated internally when the help desk starts to receive many incidents of the same type
+
+Using these types as top-level categories for an end-user facing system is not always practical, however. End-users are not likely to know how to distinguish incidents from problems, for example. Devising categories that are narrow enough to be useful but not so numerous as to be confusing or to slow down the whole ticketing process is a challenging task.
+
+One strategy is for a few simple, top-level categories that end-users can self-select, such as New Device Request, New App Request, Employee Onboarding, Employee Offboarding, Help/Support, and Security Incident. Then, when assigned to the ticket, the support technician can select from a longer list of additional categories and subcategories to help group related tickets for reporting and analysis purposes. Alternatively, or to supplement categories, the system might support adding standard keyword tags to each ticket. A keyword system is more flexible but does depend on each technician tagging the ticket appropriately.
+
+### Severity
+A **severity level** is a way for classifying tickets into a priority order. As with categories, these should not be overly complex. Three severity levels based on impact might be considered sufficient:
+- **Critical**: Incidents that have a widespread affect on end-users or involve potential or actual data breach
+- **Major**: Incidents that affect a limited group of end users or involve a suspected security violation
+- **Minor**: Incidents that are not having a significant effect on end users
+
+More discrete levels may be required if the system must prioritize hundreds or thousands of minor incidents per week. A more sophisticated system that measures both impact and urgency might be required. Severity levels can also drive a notification system to make senior technicians and managers immediately aware of major and critical incidents as they arise.
 
 ## Ticket Management
 
