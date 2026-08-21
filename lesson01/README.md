@@ -5,12 +5,15 @@
 .<br/>
 
 📂 Files will be listed below:
-- `note11.md` | Notes
-- `review11.md` | Overview
 - `lesson01.pptx` | Slides
-- `11_01_13.md` | 🔬 Lab: Create a Ticket
-- `11_01_14.md` | 🔬 Lab: Close a Ticket
-- `11_01_15.md` | 🔬 Lab: Use Help Desk System
+- `review11.md`   | Overview
+- `note11_01.md`  | 📓 Note: Documentation
+- `11_01_13.md`   | 🔬 Lab: Create a Ticket
+- `11_01_14.md`   | 🔬 Lab: Close a Ticket
+- `11_01_15.md`   | 🔬 Lab: Use Help Desk System
+- `note11_02.md`  | 📓 Note: Professional Communication
+- `note11_03.md`  | 📓 Note: Types of Operating Systems
+- `note11_04.md`  | 📓 Note: Additional Resources
 
 ## ⏹️ Managing Support Procedures
 Support for customers and clients provides an interesting dynamic to working as an [**Information Technology (IT) specialist**](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md). Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary. Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.
