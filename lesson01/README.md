@@ -3,7 +3,7 @@
 <!-- Get logos from https://simpleicons.org/ | https://primer.style/octicons/ | https://feathericons.com/ -->
 <!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
 
-[![Banner](images/Banner.png)](https://8bitsian.github.io/)
+[![Banner][BANNER]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
 
 ## ⏹️ Lesson 01 - Communication & Documentation Standards
 > *️⃣ This lesson covers industry best practices in support documentation and understanding and use professional communication identifying various operating systems and their uses.</br>
@@ -40,6 +40,7 @@ Understanding which application you are working with and ensuring the correct op
 <!-- Links placed here for the file's readability -->
 
 <!-- General -->
+[BANNER]: 
 [CERT]: https://www.comptia.org/en-us
 [CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
 [N01]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md
