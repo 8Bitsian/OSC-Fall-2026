@@ -19,41 +19,31 @@
 > This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
 >
 > This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
-> - 4.5 Summarize environmental impacts and local environmental controls.
->
-> By completing this project, you will:
-> - Determine how everyday activities impact the environment
-> - Assess and quantify environmental footprints using research and data
-> - Explain creative and practical solutions to reduce environmental harm
-> - Develop a sense of responsibility and commitment to sustainable practices.
-> 
-> For this project, you will:
-> 
-> **1. Research and document the environmental effects of one of the following activities:**
-> - Energy consumption (e.g., electricity usage in a household or office)
-> - Waste management (e.g., plastic waste, food waste, or recycling habits)
-> - Transportation (e.g., daily commuting, air travel, or delivery services)
-> 
-> **2. Consider factors such as greenhouse gas emissions, resource depletion, pollution, and waste generation. Where possible, find real-world data or estimates to quantify the impact, such as carbon emissions in kilograms or waste generated in pounds.**
->   
-> **3. Write a paper (1 to 2 pages) and create a presentation (5 to 7 slides):**
-> - Clearly state the activity you researched (e.g., energy consumption, waste management, or transportation).
-> - Identify the environmental effects of the chosen activity, supported by real-world data or estimates (e.g., carbon emissions in kilograms, waste generated in pounds).
-> - Propose at least three actionable strategies to reduce the environmental impact of the activity. Explain how each solution contributes to sustainability (e.g., switching to renewable energy, implementing composting, or using public transportation).
-> - Discuss the feasibility of implementing your proposed solutions, considering factors such as cost, accessibility, and potential challenges. Suggest ways to overcome these challenges to ensure the solutions are effective and sustainable.
-> - Include visuals such as graphs, charts, or images to support your findings and enhance understanding
+> - 4.5 Summarize environmental impacts and local environmental controls
 
 ### 2️⃣ Hands-On AI Experimentation
-
+> This project is designed to help you gain practical experience with using AI tools and platforms by exploring an AI tool or platform, documenting your findings, and reflecting on your experience. By completing this activity, you will develop a foundational understanding of how AI technologies work, their potential applications, and how to interact with them effectively.
+>
+> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
+> - 4.10 Explain basic concepts related to artificial intelligence (AI)
 
 ### 3️⃣ Security Breach Research and Presentation
-
+> This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
+>
+> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
+> - 4.5 Summarize environmental impacts and local environmental controls.
 
 ### 4️⃣ Windows Security Infographic Capstone
-
+> This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
+>
+> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
+> - 4.5 Summarize environmental impacts and local environmental controls.
 
 ### 5️⃣ Elevator Pitch Practice
-
+> This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
+>
+> This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
+> - 4.5 Summarize environmental impacts and local environmental controls.
 
 <!-- Links placed here for the file's readability -->
 
