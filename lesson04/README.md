@@ -42,7 +42,7 @@
 <!-- Notes -->
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_12_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
-[EXTRA]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
+[EXTRA]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
 [📓01]: https://custom-icon-badges.demolab.com/badge/Troubleshoot_Windows_Networking-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 [📓02]: https://custom-icon-badges.demolab.com/badge/Remote_Access_Technologies-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
 [📓03]: https://custom-icon-badges.demolab.com/badge/Performance_and_Troubleshooting_Tools-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note&labelColor=8C52FF&color=FFDE59
