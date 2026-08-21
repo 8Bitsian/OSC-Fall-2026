@@ -1,10 +1,19 @@
+<!-- Get more cards from https://github.com/DenverCoder1/ -->
+<!-- Get badges from https://shields.io/ | Start link with: https://img.shields.io/badge/ -->
+<!-- Get logos from https://simpleicons.org/ | https://primer.style/octicons/ | https://feathericons.com/ -->
+<!-- Get custom badges from https://custom-icon-badges.demolab.com/ | Start link with: https://custom-icon-badges.demolab.com/badge/ -->
+
+[![Banner][BANNER]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
+
 ## ⏹️ Lesson 07 - Supporting Other Operating Systems
 > *️⃣ This lesson teaches you the basics on how to configure Linux and macOS operating systems.</br>
 > *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
 
-> [![Home_Badge][HOME]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
+> [![Home_Badge][HOME]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
+[![Class_Badge][HI&M]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/README.md)
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson06/README.md)
 [![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson08/README.md)
+[![Final_Badge][FINAL]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/final/README.md)
 
 ### ℹ️ Introduction
 > Some companies used a diverse range of operating systems (OSs) other than Windows, like Linux and macOS.
@@ -24,15 +33,20 @@
 | [![Lesson_01_Badge][OVER]](./review17.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_02_Badge][🔬02]](./lab02.md) |
 | [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note03.md) | [![Lab_03_Badge][🔬03]](./lab03.md) |
 
+<!-- Links placed here for the file's readability -->
+
 <!-- General -->
+[BANNER]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/images/Banner.png
 [CERT]: https://www.comptia.org/en-us
 [CORE]: https://www.comptia.org/en-us/certifications/a/core-2-v15
 [N01]: https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md
 
 <!-- Navigation -->
 [HOME]: https://custom-icon-badges.demolab.com/badge/HOME-2026?style=flat&logo=home&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[HI&M]: https://custom-icon-badges.demolab.com/badge/HI&M-2026?style=flat&logo=archive&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [BACK]: https://custom-icon-badges.demolab.com/badge/BACK-2026?style=flat&logo=arrow-left&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 [NEXT]: https://custom-icon-badges.demolab.com/badge/NEXT-2026?style=flat&logo=arrow-right&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
+[FINAL]: https://custom-icon-badges.demolab.com/badge/FINAL-2026?style=flat&logo=project-roadmap&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Extra Help -->
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_17_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
