@@ -1,6 +1,6 @@
 ## ⏹️ Lesson 01 - Communication & Documentation Standards
 > *️⃣ This lesson covers industry best practices in support documentation and understanding and use professional communication identifying various operating systems and their uses.</br>
-*️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
+*️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.</br>
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
