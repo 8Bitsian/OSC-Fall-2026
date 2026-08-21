@@ -6,7 +6,7 @@
 [![Banner][BANNER]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
 
 ## ⏹️ Lesson 08 - Configuring SOHO Network Security
-> *️⃣ This lesson teaches you _.</br>
+> *️⃣ This lesson teaches you to identify security threats and vulnerabilities, plus some of the logical and physical controls used to mitigate them on SOHO networks.</br>
 > *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
 
 > [![Home_Badge][HOME]](https://github.com/8Bitsian/8Bitsian/blob/main/README.md)
@@ -16,11 +16,15 @@
 [![Final_Badge][FINAL]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/final/README.md)
 
 ### ℹ️ Introduction
-> Blurb
+> As a CompTIA A+ technician, you are in a position to identify potential security issues before they become big problems.
+> By identifying security threats and vulnerabilities, as well as some of the controls that can counteract them, you can help keep your organization's computing resources safe from unauthorized access.
 
 ### #️⃣ Certification Preparation
 > This lesson prepares me for the following topics in the ![CompTIA A+ Core 2][CORE] Certification:
-> - Topic
+> - Explaining attacks, threats, and vulnerabilities
+> - Comparing wireless security protocols
+> - Configuring SOHO router security
+> - Summarizing security measures
 
 ## 📂 Files
 > 📑 Below are a list of files within this lesson and what they include.</br>
