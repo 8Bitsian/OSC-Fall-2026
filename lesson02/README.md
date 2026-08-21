@@ -52,7 +52,7 @@
 [FINAL]: https://custom-icon-badges.demolab.com/badge/FINAL-2026?style=flat&logo=project-roadmap&logoColor=FFFFF0&labelColor=8C52FF&color=FFDE59
 
 <!-- Extra Help -->
-[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_11_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
+[PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_12_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
 [HELP]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
 
