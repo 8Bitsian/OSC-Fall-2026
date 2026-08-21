@@ -1,4 +1,4 @@
-# ⏹️ Lesson 01 - Communication & Documentation Standards
+## ⏹️ Lesson 01 - Communication & Documentation Standards
 > *️⃣ This lesson covers industry best practices in support documentation and understanding and use professional communication identifying various operating systems and their uses.</br>
 *️⃣ This lesson requires that I utilize ![CompTIA CertMaster][CERT] as part of the course material.
 
@@ -6,7 +6,7 @@
 [![Back_Badge][BACK]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/README.md)
 [![Next_Badge][NEXT]](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/lesson02/README.md)
 
-## ℹ️ Managing Support Procedures
+### ℹ️ Managing Support Procedures
 > Support for customers and clients provides an interesting dynamic to working as an ![Information Technology (IT) specialist][N01].
 Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary.
 Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.</br></br>
@@ -15,7 +15,7 @@ In some cases, the problem will not be resolved in the same day and other team m
 Tracking and documentation of steps taken thus far allows them to continue the process rather than starting all over again with the issue.
 Understanding which application you are working with and ensuring the correct operating system has been identified will be helpful in finding a resolution as well.
 
-## #️⃣ Certification Preparation
+### #️⃣ Certification Preparation
 > This lesson prepares me for the following topics in the ![CompTIA A+ Core 2][CORE] Certification:
 > - Understanding industry best practices in support documentation
 > - Understanding and use processional communication
