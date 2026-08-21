@@ -15,6 +15,17 @@
 - `note11_03.md`  | 📓 Note: Types of Operating Systems
 - `note11_04.md`  | 📓 Note: Additional Resources
 
+## 🗃️ Lessons
+> 📂 Below are a list of lesson folders and what they include.</br>
+
+| Notes | Labs |
+|:---   |:---  |
+| [![Powerpoint_Badge][PPTX]](./lesson01.pptx) | [![Lesson_01_Badge][L01]](./review11.md) |
+| [![Note_01_Badge][📓01]](./note11_01.md) | [![Lab_13_Badge][🔬01]](./lab01_13.md) |
+| [![Note_02_Badge][📓02]](./note11_02.md) | [![Lab_14_Badge][🔬02]](./lab01_14.md) |
+| [![Note_03_Badge][📓03]](./note11_03.md) | [![Lab_15_Badge][🔬03]](./lab01_15.md) |
+| [![Note_04_Badge][📓04]](./note11_04.md) | |
+
 ## ⏹️ Managing Support Procedures
 Support for customers and clients provides an interesting dynamic to working as an [**Information Technology (IT) specialist**](https://github.com/8Bitsian/OSC-Fall-2026/blob/main/review/note01.md). Every issues is something new to learn and resolve. When the issue change, the process by which we resolve them should not vary. Ensuring that you communicate efficiently and effectively will be the key to handling the issue as a professional.
 
