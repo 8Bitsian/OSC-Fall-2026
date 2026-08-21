@@ -3,30 +3,29 @@
 > Make sure to include a citation page with references using APA or MLA style.
 > You'll also have to provide a PowerPoint slide presentation with 5-7 slides maximum (including audio) to post for other students, including your name, the title of your project, a summary slide, and a graphic/chart slide.
 
-# 3️⃣ Environmental Impact Assessment
-> This project is designed to help you understand the environmental impact of human activities by researching an activity and writing a paper and creating a presentation.
+# 1️⃣ Windows Security Infographic Capstone
+> This project is designed to help you understand and articulate Windows Security settings by researching key Windows Security settings and creating an infographic.
 >
 > This exercise supports the understanding of the following objective for the A+ Core 2 (220-1202) Exam:
-> - 4.5 Summarize environmental impacts and local environmental controls.
+> - 2.1 Summarize various security measures and their purposes
+> - 2.2 Given a scenario, configure and apply basic Microsoft Windows OS security settings
 >
 > By completing this project, you will:
-> - Determine how everyday activities impact the environment
-> - Assess and quantify environmental footprints using research and data
-> - Explain creative and practical solutions to reduce environmental harm
-> - Develop a sense of responsibility and commitment to sustainable practices.
+> - Visually represent the importance of Windows Defender, firewall rules, and user account rules
 > 
 > For this project, you will:
 > 
-> **1. Research and document the environmental effects of one of the following activities:**
-> - Energy consumption (e.g., electricity usage in a household or office)
-> - Waste management (e.g., plastic waste, food waste, or recycling habits)
-> - Transportation (e.g., daily commuting, air travel, or delivery services)
+> **1. Research the following Windows Security settings and how each feature contributes to the system security:**
+> - Windows Defender: Identify what it is, how it protects your system, and determine its key features (e.g., real-time protection, virus scanning, threat detection, etc.)
+> - Firewall Rules: Identify what they are, why they are important, and how firewall rules work, and explore examples of inbound and outbound rules
+> - User Account Control (UAC): Identify what it is, its purpose, and how it protects against unauthorized changes, and determine different UAC levels and their implications
 > 
-> **2. Consider factors such as greenhouse gas emissions, resource depletion, pollution, and waste generation. Where possible, find real-world data or estimates to quantify the impact, such as carbon emissions in kilograms or waste generated in pounds.**
->   
-> **3. Write a paper (1 to 2 pages) and create a presentation (5 to 7 slides):**
-> - Clearly state the activity you researched (e.g., energy consumption, waste management, or transportation).
-> - Identify the environmental effects of the chosen activity, supported by real-world data or estimates (e.g., carbon emissions in kilograms, waste generated in pounds).
-> - Propose at least three actionable strategies to reduce the environmental impact of the activity. Explain how each solution contributes to sustainability (e.g., switching to renewable energy, implementing composting, or using public transportation).
-> - Discuss the feasibility of implementing your proposed solutions, considering factors such as cost, accessibility, and potential challenges. Suggest ways to overcome these challenges to ensure the solutions are effective and sustainable.
-> - Include visuals such as graphs, charts, or images to support your findings and enhance understanding
+> **2. Create an infographic using a tool of your choice, such as Canva or PowerPoint. Make sure your infographic includes the following:**
+> - Each Windows Security setting you researched (Windows Defender, Firewall Rules, and User Account Control).
+> - The importance of each Windows security setting.
+> - Practical examples or scenarios where these Windows Security settings protect users.
+> - A layout that is visually appealing and easy to follow.
+> - Headings, subheadings, and bullet points for clarity. Visuals, such as icons, diagrams, or charts, to enhance understanding.
+> - Colors and fonts that are professional and easy to read.
+>
+> **3. Write a paper (1 to 2 pages) on your research of the topic and lessons learned about the tools used to secure your computer's Os and data**
