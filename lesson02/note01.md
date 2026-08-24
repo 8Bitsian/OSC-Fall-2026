@@ -17,8 +17,16 @@ An OS is made up of kernel files and device drivers to interface with the hardwa
 The GUI desktop style is favored by a particular OS or OS version is a powerful factor in determining customer preferences for one OS over another.
 
 ## Windows 10 Desktop
+One of the main functions of an OS is to provide an interface (or shell) for the user to configure and operate the computer hardware and software. Windows has several interface components designed both for general use and for more technical configuration and troubleshooting.
+
+The top level of the UI is the desktop. This is displayed when Windows starts, and the user logs on. The desktop contains the Start menu, taskbar, and shortcut icons. These are all used to launch and switch between applications.
+
+Windows 10 uses a touch-optimized Start menu interface. The Start menu is activated by selecting the **Start** button or by pressing the **START** or Windows logo key on the keyboard.
+
+As well as the Start button, the taskbar contains the **instant search** (Windows feature allowing rapid search of apps, data folders, messages, and the web) box, Task View button, and notification area. The notification area contains icons for background processes. The middle part of the taskbar contains icons for apps that have an open window. Some app icons can also be pinned to the taskbar. The taskbar icons are used to switch between program windows.
 
 ## Windows 11 Desktop
+Windows 11 refreshes the desktop style by introducing a center-aligned taskbar, better spacing for touch control, and rounded corners. It also makes the multiple desktops feature more accessible. Multiple desktops allow the user to set up different workspaces, such as one desktop that has windows for business apps open and another with windows and shortcuts for personal apps and games.
 
 # 2️⃣ Windows Settings and Control Panel
 Blurb
