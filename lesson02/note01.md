@@ -65,18 +65,70 @@ The **Account Settings** app is used for the following configuration tasks:
 The **User Accounts Applet** in Control Panel is the legacy interface. Many of its functions are obfuscated or hidden and may not readily be used to add new accounts. It does provide options for adjusting the account name and changing the account privilege level between the administrator and the standard user. It can also be used to change the **User Account Control (UAC)** settings. UAC is a system to prevent unauthorized use of administrator privileges. At the default setting level, changing an administrative setting requires the user to confirm a prompt or input the credentials for an administrator account.
 
 # 4️⃣ Privacy Settings
-Blurb
+Privacy and Security Settings govern what usage data Windows is permitted to collect and what device functions are enabled and for which apps. The security settings allow a user to change antivirus, browser, and firewall settings.
+
+There are multiple settings toggles to determine what data collection and app permissions are allowed:
+- Data collection allows Microsoft to process usage telemetry. It affects use of speech and input personalization, language settings, general diagnostics, and activity history.
+- App permissions allow or deny access to devices such as the location service, camera, and microphone and to user data such as contacts, calendar items, email, and files.
 
 # 5️⃣ Desktop Settings
-Blurb
+The desktop can be configured to use local settings and personalized to adjust its appearance.
+
+## Time and Language Settings
+The time and Language settings pages are used for two main purposes:
+- Set the correct date/time and time zone. Keeping the PC synchronized to an accurate time source is important for processes such as authentication and backup
+- Set region options for appropriate spelling and localization, keyboard input method, and speech recognition. Optionally, multiple languages can be enabled. The active language is toggled using an icon in the notification area (or START+SPACE)
+
+## Personalization Settings
+The **Personalization Settings** allow you to select and customize themes, which set the appearance of the desktop environment. Personalization and theme settings include the desktop wallpaper, screen saver, color scheme, font, and properties for the Start menu and taskbar.
 
 # 6️⃣ Ease of Access Settings
-Blurb
+**Ease of Accessibility** settings configure input and output options to best suit each user. There are three main settings groups:
+1. Vision configures options for cursor indicators, high-contrast and color-filter modes, and the Magnifier zoom tool. Additionally, the Narrator tool can be used to enable audio descriptions of the current selection
+2. Hearing configures options for volume, mono sound mixing, visual notifications, and closed-captioning
+3. Interaction configures options for keyboard and mouse usability. The user can also enable speech- and eye-controlled input methods
+
+NOTE: Ease of Access can be configured via Settings or Control Panel. In Windows 11, these settings are found under the Accessibility heading
 
 # 7️⃣ File Explorer
-Blurb
+File management is a critical part of using a computer. As a computer support professional, you will often have to assist users with locating files. In Windows, file management is performed using the File Explorer app. File Explorer enables you to open, copy, move, rename, view, and delete files and folders.
 
-# 8️⃣ Indexing Options
+NOTE: File Explorer is often just referred to as "Explorer," as the process is run from the file explorer.exe
+
+## System Objects
+In Windows, access to data files is typically mediated by system objects. These are shown in the left-hand navigation pane in File Explorer. Some of the main system objects are:
+
+- **User Account**: Contains personal data folders belonging to the signed-in account profile
+- **One Drive**: If you sign into the computer with a Microsoft account, this shows the files and folders saved to your cloud storage service on the Internet
+- **This PC**: Contains the personal folders from the profile but also the fixed disks and removable storage drives attached to the PC
+- **Network**: Contains computers, shared folders, and shared printers available over the network
+- **Recycle Bin**: Provides an option for recovering files and folders that have been marked for deletion
+
+## Drive and Folders
+While the system objects represent logical storage areas, the actual data files are written to disk drives. Within the This PC object, drives are referred to by letters and optional labels. A "drive" can be a single physical disk or a partition on a disk, a shared network folder mapped to a drive letter, or a removable disk. By convention, the A: drive is the floppy disk and the C: drive is the partition on the primary fixed disk holding the Windows installation.
+
+Every drive contains a directory called the root directory. The root directory is represented by the backslash (\). Ex. The root directory of the C: drive is C:\. Below the root directory is a hierarchy of subdirectories, referred to in Windows as folders. Each directory can contain subfolders and files.
+
+## System Files
+System files are the files that are required for the operating system to function. The root directory of a typical Windows installation normally contains the following folders to separate system files from user data files:
+
+- **Windows**: The system root, containing drivers, logs, add-in applications, system and configuration files (notably the System32 subdirectory), fonts, and so on.
+- **Program Files/Program Files (x86)**: Subdirectories for installed applications software. In 64-bit versions of Windows, a Program Files (x86) folder is created to store 32-bit applications.
+- **Users**: Storage for users' profile settings and data. Each user has a folder named after their user account. This subfolder contains NTUSER.DAT (registry data) plus subfolders for personal data files. The profile folder also contains hidden subfolders used to store application settings and customization, favorite links, shortcuts, and temporary files.
+
+# 8️⃣ File System Options
+File Explorer has configurable options for view settings and file search.
+
+The **File Explorer Options** applet in Control Panel governs how Explorer shows folders and files. On the General tab, you can set options for the layout of Explorer windows and switch between the single-click and double-click styles of opening shortcuts, among other options.
+
+On the View tab, among many other options, you can configure the following settings:
+- Hide extensions for known file types- Windows files are identified by a three- or four-character extension following the final period in the file name. The file extension can be used to associate a file type with a software application. Over-typing the file extension (when renaming a file) can make it difficult to open, so extensions are normally hidden from view.
+- Hidden files and folders- A file or folder can be marked as "Hidden" through its file attributes. Files marked as hidden are not shown by default but can be revealed by setting the "Show hidden files, folders, and drives" option.
+- Hide protected operating system files- This configures files marked with the System attribute as hidden. It is worth noting that in Windows, File/Resource Protection prevents users (even administrative users) from deleting these files anyway.
+- Other Options- Default folder/item view, search options, and search behavior settings can also be modified here.
+
+# 9️⃣ Indexing Options
+You can configure file search behavior on the **Search** tab of the File Explorer Options dialog. Search is also governed by settings configured in the **Indexing Options** applet. This allows you to define indexed locations and rebuild the index. Indexed locations can include both folders and email data stores. A corrupted index is a common cause of search problems.
 
 # Keywords
 - **Operating System (OS)**: Kernel files and device drivers
@@ -90,3 +142,10 @@ Blurb
 - **Authentication**:
 - **Microsoft Account**: Cloud-based SSO service allowing users to synchronize settings between multiple Windows devices
 - **User Accounts Applet**: Control Panel app relating to user account creation and maintenance
+- **Personalization Settings**: Windows Settings pages related to customizing the appearance of the desktop using themes
+- **One Drive**: Cloud storage service operated by Microsoft and closely integrated with Windows
+- **This PC**: File system object representing a Windows computer and the disk drives installed to it
+- **Network**: In its most simple form, a network consists of two or more computers connected to each other by an appropriate transmission medium which allows them to share data. More complex networks can be developed from this basic principle—networks can be interconnected in different ways and even dissimilar networks can be linked
+- **Recycle Bin**: When files are deleted from a local hard disk, they are stored in the Recycle Bin. they can be recovered from here if so desired
+- **File Explorer Options**: Control Panel app related to view and browsing settings for File Explorer
+- **Indexing Options**: Control Panel app related to search database maintenance
