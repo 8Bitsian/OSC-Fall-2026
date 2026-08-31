@@ -1,5 +1,5 @@
-**Attempt 1: (12/15)**
-**Attempt 2: (12/15)**
+**Attempt 1: (12/15)** </br>
+**Attempt 2: (14/15)**
 
 1. You work for a large company as an IT administrator. With the many external attacks being perpetrated in the form of security breaches, you are concerned that your Windows 11 computers may be vulnerable. You also want to ensure that Windows is using the latest features. Which of the following would BEST protect your computers?
 > **a. Windows updates** </br>
@@ -106,8 +106,8 @@
 
 18. You are an IT administrator for a small business. Your company recently purchased a single-user license for a cloud-based graphic design application. One of your team members suggests installing the application on multiple devices so that different employees can use it. What should you do to ensure compliance with the license agreement?
 > a. Install the application on multiple devices but restrict access to one employee at a time </br>
-> b. Review the license terms to confirm whether multiple installations are allowed under the single-user license </br>
-> **c. Purchase additional licenses for each employee who needs access to the application** </br>
+> **b. Review the license terms to confirm whether multiple installations are allowed under the single-user license** </br>
+> ~~c. Purchase additional licenses for each employee who needs access to the application~~ </br>
 > d. Install the application on multiple devices and share the login credentials with all employees
 
 19. Which keyboard shortcuts provides access to the Management Shortcuts menu in Windows, allowing users to quickly access tools like Device Manager, Disk Management, and Task Manager?
@@ -187,3 +187,57 @@
 > b. Managing user accounts </br>
 > **c. Enabling the Narrator tool** </br>
 > d. Adjusting the screen resolution
+
+32. 
+> a. </br>
+> b. </br>
+> c. </br>
+> d.
+
+33.
+> a. </br>
+> b. </br>
+> c. </br>
+> d. 
+
+34. 
+> a. </br>
+> b. </br>
+> c. </br>
+> d. 
+
+35. 
+> a. </br>
+> b. </br>
+> c. </br>
+> d.
+
+36.
+> a. </br>
+> b. </br>
+> c. </br>
+> d. 
+
+37. 
+> a. </br>
+> b. </br>
+> c. </br>
+> d. 
+
+38. 
+> a. </br>
+> b. </br>
+> c. </br>
+> d.
+
+39. 
+> a. </br>
+> b. </br>
+> c. </br>
+> d. 
+
+40. 
+> a. </br>
+> b. </br>
+> c. </br>
+> d.
