@@ -1,5 +1,6 @@
 **Attempt 1: (12/15)** </br>
-**Attempt 2: (14/15)**
+**Attempt 2: (14/15)** </br>
+**Attempt 3: (15/15)**
 
 1. You work for a large company as an IT administrator. With the many external attacks being perpetrated in the form of security breaches, you are concerned that your Windows 11 computers may be vulnerable. You also want to ensure that Windows is using the latest features. Which of the following would BEST protect your computers?
 > **a. Windows updates** </br>
@@ -89,7 +90,7 @@
 15. From your Windows laptop, you have been working on a large project that has required you to open a lot of items (programs, files, etc.). It is time to leave the office and make the two-hour journey home. You will be working on this project a bit more when you arrive home. Your computer's battery is failing and only has a very short life span (about one hour) before your computer loses power. When you arrive home and open the laptop lid, nothing happens. After plugging in your computer and powering it on, you find that all of your programs and files have been closed. To troubleshoot, you open the Control Panel and navigate to the settings that control what your computer will do when the laptop lid is closed. Which of the following power settings MUST you choose to prevent the same problem in the future?
 > a. When I close the lid: Shut down </br>
 > ~~b. When I close the lid: Sleep/Suspend~~ </br>
-> c. When I close the lid: Standby /br>
+> c. When I close the lid: Standby </br>
 > **d. When I close the lid: Hibernate**
 
 16. A security-conscious user limits what usage data Windows permits to collect. They also limit what device functions it enables and for which apps. Where does the user accomplish this?
@@ -146,98 +147,38 @@
 > c. Ownership of the project files is irrelevant as long as the files are accessible to the team </br>
 > **d. The organization retains ownership of the project files, and they should not be stored in personal cloud storage**
 
-25. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d.
+25. What type of update introduces changes to the OS features and tools in Windows Update?
+> a. Driver update </br>
+> **b. Feature update** </br>
+> c. Security update </br>
+> d. Patch update
 
-26.
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
+26. You are a system administrator tasked with troubleshooting a printer that is connected to a Windows computer but is not functioning properly. You suspect the issue is related to the printer driver. Which tool should you use to verify the printer driver and update it if necessary?
+> a. Devices and Printers applet in Control Panel </br>
+> b. Bluetooth & Devices Settings page </br>
+> **c. Device Manager** </br>
+> d. System Settings page for Display and Sound
 
-27. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
+27. A user is having difficulty navigating between multiple open applications on their Windows 10 computer. They want to quickly switch between program windows without using the mouse. Which of the following actions should the user take?
+> a. Right-click on the desktop and select "Switch Applications" </br>
+> b. Press the Windows logo key to open the Start menu </br>
+> **c. Use the keyboard shortcut Alt + Tab** </br>
+> d. Open the Control Panel and navigate to "Task Manager"
 
-28. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d.
+28. A project manager implements a new ticketing system that allows the help-desk to record knowledge, streamline efficiencies, and automate solutions. Which of the following is the least concern for the support team?
+> a. Support </br>
+> **b. Distribution method** </br>
+> c. Training </br>
+> d. Licensing
 
-29. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
+29. Which of the following BEST describes the purpose of the Windows Update feature in the Update and Security Settings?
+> a. To completely disable updates for the operating system and applications </br>
+> b. To activate Windows using a valid product key or digital license </br>
+> c. To configure advanced firewall rules for network traffic </br>
+> **d. To manage critical updates, security patches, and optional driver updates**
 
-30. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d.
-
-31. Which of the following is a feature found under Ease of Access settings menu in Windows?
+30. Which of the following is a feature found under Ease of Access settings menu in Windows?
 > a. Configuring the system date and time </br>
 > b. Managing user accounts </br>
 > **c. Enabling the Narrator tool** </br>
 > d. Adjusting the screen resolution
-
-32. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d.
-
-33.
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
-
-34. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
-
-35. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d.
-
-36.
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
-
-37. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
-
-38. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d.
-
-39. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d. 
-
-40. 
-> a. </br>
-> b. </br>
-> c. </br>
-> d.
