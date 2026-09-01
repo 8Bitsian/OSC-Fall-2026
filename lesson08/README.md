@@ -34,7 +34,7 @@
 | [![Powerpoint_Badge][PPTX]](./lesson08.pptx) | [![Note_01_Badge][📓01]](./note01.md) | [![Lab_01_Badge][🔬01]](./lab01.md) |
 | [![Lesson_01_Badge][OVER]](./review18.md)    | [![Note_02_Badge][📓02]](./note02.md) | [![Lab_02_Badge][🔬02]](./lab02.md) |
 | [![Resources_Badge][HELP]](./resource.md)    | [![Note_03_Badge][📓03]](./note03.md) | [![Lab_03_Badge][🔬03]](./lab03.md) |
-|                                              | [![Note_04_Badge][📓04]](./note04.md) | [![Lab_04_Badge][🔬04]](./lab04.md) |
+| [![Quiz_Badge][QUIZ]](./quiz08.md)           | [![Note_04_Badge][📓04]](./note04.md) | [![Lab_04_Badge][🔬04]](./lab04.md) |
 
 <!-- Links placed here for the file's readability -->
 
@@ -55,6 +55,7 @@
 [PPTX]: https://custom-icon-badges.demolab.com/badge/Chapter_18_Slides-2026?style=flat&logo=file&logoColor=FFFFF0&label=Slides&labelColor=8C52FF&color=FFDE59
 [OVER]: https://custom-icon-badges.demolab.com/badge/Lesson_Overview-2026?style=flat&logo=file&logoColor=FFFFF0&label=Overview&labelColor=8C52FF&color=FFDE59
 [HELP]: https://custom-icon-badges.demolab.com/badge/Additional_Resources-2026?style=flat&logo=file&logoColor=FFFFF0&label=Extra&labelColor=8C52FF&color=FFDE59
+[QUIZ]: https://custom-icon-badges.demolab.com/badge/Lesson_Quiz-2026?style=flat&logo=file&logoColor=FFFFF0&label=Quiz&labelColor=8C52FF&color=FFDE59
 
 <!-- Notes -->
 [📓01]: https://custom-icon-badges.demolab.com/badge/Attacks,_Threats,_and_Vulnerabilities-2026?style=flat&logo=file&logoColor=FFFFF0&label=Note%201.0&labelColor=8C52FF&color=FFDE59
